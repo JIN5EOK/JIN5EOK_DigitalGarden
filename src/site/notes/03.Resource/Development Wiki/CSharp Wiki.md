@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03.Resource/Development Wiki/CSharp Wiki/","noteIcon":"","created":"2024-12-21T17:43:53.000+09:00","updated":"2025-07-19T23:11:33.008+09:00"}
+{"dg-publish":true,"permalink":"/03.Resource/Development Wiki/CSharp Wiki/","noteIcon":"","created":"2024-12-21T17:43:53.000+09:00","updated":"2025-07-20T02:21:39.405+09:00"}
 ---
 
 ## 멀티스레드
@@ -25,7 +25,7 @@
 [[03.Resource/Development Wiki/Development Wiki (Sources)/CSharp System.Object\|CSharp System.Object]]
 [[03.Resource/Development Wiki/Development Wiki (Sources)/CSharp record\|CSharp record]]
 [[03.Resource/Development Wiki/Development Wiki (Sources)/CSharp IDisposable\|CSharp IDisposable]]
-[[03.Resource/Development Wiki/Development Wiki (Sources)/CSharp IEnumerable과 IEnumerator는 왜 나누어져 있을까?\|CSharp IEnumerable과 IEnumerator는 왜 나누어져 있을까?]]
+[[03.Resource/Development Wiki/Development Wiki (Sources)/CSharp IEnumerable과 IEnumerator는 왜 나누어져 있을까\|CSharp IEnumerable과 IEnumerator는 왜 나누어져 있을까]]
 [[03.Resource/Development Wiki/Development Wiki (Sources)/CSharp is as와 캐스팅\|CSharp is as와 캐스팅]]
 [[03.Resource/Development Wiki/Development Wiki (Sources)/CSharp Lazy Initialize (지연 초기화)\|CSharp Lazy Initialize (지연 초기화)]]
 [[03.Resource/Development Wiki/Development Wiki (Sources)/CSharp LinQ\|CSharp LinQ]]
