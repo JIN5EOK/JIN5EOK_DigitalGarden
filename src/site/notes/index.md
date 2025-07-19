@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"],"noteIcon":"","created":"2025-07-19T17:50:27.279+09:00","updated":"2025-07-20T02:46:17.767+09:00"}
+{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"],"noteIcon":"","created":"2025-07-19T17:50:27.279+09:00","updated":"2025-07-20T02:53:45.602+09:00"}
 ---
+
 
 ### 개발노트
 [[Dev Notes/개발노트\|개발노트]]
