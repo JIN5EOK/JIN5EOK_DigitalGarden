@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"],"noteIcon":"","created":"2025-07-19T17:50:27.279+09:00","updated":"2025-07-20T03:21:36.613+09:00"}
+{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"],"noteIcon":"","created":"2025-07-19T17:50:27.279+09:00","updated":"2025-07-20T03:28:01.895+09:00"}
 ---
 
 # 👨‍💻 Unity Game Client Programmer
@@ -10,7 +10,7 @@
 
 > 개발중 겪은 시행착오를 적은 일지입니다
 
-[[DevLog/개발일지\|개발일지]]
+[[DevLog/DevLog\|DevLog]]
 ### 개발위키
 
 > 개발 관련 지식들을 정리해둔 위키입니다
