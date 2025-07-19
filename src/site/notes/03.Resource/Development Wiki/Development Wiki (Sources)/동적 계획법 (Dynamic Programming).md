@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/03.Resource/Development Wiki/Development Wiki (Sources)/동적 계획법 (Dynamic Programming)/","noteIcon":"","created":"2025-06-07T03:15:43.635+09:00","updated":"2025-07-20T02:22:56.937+09:00"}
+---
+
+
+> 큰 문제를 작은 문제로 쪼개어 해결하는 기법
+
+* 큰 문제를 작은 문제로 쪼갠다
+* 한번 연산한 작은 문제의 답을 저장, 중복 계산하지 않는다
+
+> 말은 거창하게 했지만 복잡한 개념이 아님..
+
+* 반복되는 문제들의 연산 결과를 저장하고 다른 연산에 활용하는것
