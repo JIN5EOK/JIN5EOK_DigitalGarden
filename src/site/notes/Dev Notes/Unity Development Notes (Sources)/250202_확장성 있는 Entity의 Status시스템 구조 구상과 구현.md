@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Dev Notes/Unity Development Notes (Sources)/250202_확장성 있는 Entity의 Status시스템 구조 구상과 구현/","noteIcon":"","created":"2025-05-23T02:24:20.625+09:00","updated":"2025-07-20T02:49:56.120+09:00"}
+{"dg-publish":true,"permalink":"/Dev Notes/Unity Development Notes (Sources)/250202_확장성 있는 Entity의 Status시스템 구조 구상과 구현/","noteIcon":"","created":"2025-05-23T02:24:20.625+09:00","updated":"2025-07-20T02:59:22.013+09:00"}
 ---
 
 # 최종 결과
@@ -67,11 +67,7 @@ StatusBase <-- DarkFlowerStatus
 
 ```
 
-<aside> 🤔
-
-공통 스테이터스 컨테이너를 만들고 이를 여러 Status들이 재사용하는 방식이다
-
-</aside>
+> 🧐 공통 스테이터스 컨테이너를 만들고 이를 여러 Status들이 재사용하는 방식이다
 
 - **해결된 점**
     - **필요하지 않은 Status구현 해결**
@@ -127,11 +123,7 @@ StatusBase <-- EntityStatusContainer
 
 # 모듈화
 
-<aside> 🤔
-
-만들고 나니 Status뿐만 아니라 다른곳에서도 쓰일 수 있다는 생각이 들었다
-
-</aside>
+>만들고 나니 Status뿐만 아니라 다른곳에서도 쓰일 수 있다는 생각이 들었다
 
 ```mermaid
 classDiagram
@@ -160,11 +152,8 @@ StatusBase <-- EntityStatusContainer
 
 # 인스펙터에서 수정 할 수 있게 바꿔보자
 
-<aside> 🧐
 
-다양한 스테이터스를 개개의 객체로 다룰 수 있게 된 것은 좋다, 그런데 아직 문제가 있다.
-
-</aside>
+> 🧐 다양한 스테이터스를 개개의 객체로 다룰 수 있게 된 것은 좋다, 그런데 아직 문제가 있다.
 
 ### 인스펙터에서 스테이터스를 수정할 수 없다
 
@@ -174,12 +163,8 @@ StatusBase <-- EntityStatusContainer
     2. **Stauts 요소들이 이제 명시적 필드가 아님**
         1. 유니티는 기본적으로 명시적인 타입 직렬화만 지원함
 
-<aside> 🤔
 
-그럼 방법이 없나?
-
-</aside>
-
+> 🧐 그럼 방법이 없나?
 ### 커스텀 에디터를 사용하면 해결할 수 있다
 
 - `[SerializeReference]`
