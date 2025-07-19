@@ -4,7 +4,7 @@
 
 # 최종 결과
 
-![Entity_Status.png](/img/user/Dev%20Notes/Unity%20Development%20Notes%20(Sources)/Files/Entity_Status.png)
+![Entity_Status.png](/img/user/DevLog/Sources/Files/Entity_Status.png)
 - 각 Entity는 불필요한 Status 데이터를 지니지 않을 수 있다
 - 인스펙터에서 스테이터스 컬렉션에 원하는 스테이터스 타입을 골라 추가할 수 있다
 
