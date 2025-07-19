@@ -6,4 +6,4 @@
 [[03.Resource/Development Wiki/Development Wiki (Sources)/동적 계획법 (Dynamic Programming)\|동적 계획법 (Dynamic Programming)]]
 [[03.Resource/Development Wiki/Development Wiki (Sources)/LCS (Longest Common Subsequence, Longest Common Substring)\|LCS (Longest Common Subsequence, Longest Common Substring)]]
 [[03.Resource/Development Wiki/Development Wiki (Sources)/MD5 (Message Digest Algorithm 5)\|MD5 (Message Digest Algorithm 5)]]
-[[SHA (Secure Hash Algorithm)\|SHA (Secure Hash Algorithm)]]
+[[03.Resource/Development Wiki/Development Wiki (Sources)/SHA (Secure Hash Algorithm)\|SHA (Secure Hash Algorithm)]]

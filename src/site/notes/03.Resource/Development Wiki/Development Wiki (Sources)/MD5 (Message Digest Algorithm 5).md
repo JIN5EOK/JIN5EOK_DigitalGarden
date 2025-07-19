@@ -22,4 +22,4 @@
 			* 이러한 영역에는 SHA-256 알고리즘을 사용하는것이 적합함
 ---
 ### 관련문서
-[[SHA (Secure Hash Algorithm)\|SHA (Secure Hash Algorithm)]]
+[[03.Resource/Development Wiki/Development Wiki (Sources)/SHA (Secure Hash Algorithm)\|SHA (Secure Hash Algorithm)]]
