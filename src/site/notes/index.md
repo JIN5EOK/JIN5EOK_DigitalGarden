@@ -3,7 +3,7 @@
 ---
 
 ### 개발노트
-[[02.Area/Development Notes/개발노트\|개발노트]]
+[[Dev Notes/개발노트\|개발노트]]
 ### 개발위키
 [[Dev Wiki/Algorithm Wiki\|Algorithm Wiki]]
 [[Dev Wiki/CS Wiki\|CS Wiki]]
