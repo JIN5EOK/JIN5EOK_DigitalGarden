@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/DevWiki/Sources/CSharp 델리게이트/","noteIcon":"","created":"2024-10-06T14:30:40.000+09:00","updated":"2025-07-19T22:58:36.957+09:00"}
+{"dg-publish":true,"permalink":"/DevWiki/Sources/CSharp 델리게이트/","noteIcon":"","created":"2024-10-06T14:30:40.000+09:00","updated":"2025-07-19T22:58:36.000+09:00"}
 ---
 
 ## Action

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/DevWiki/Sources/Dotnet 객체의 세대/","noteIcon":"","created":"2024-11-10T15:01:49.000+09:00","updated":"2025-07-19T22:58:36.968+09:00"}
+{"dg-publish":true,"permalink":"/DevWiki/Sources/Dotnet 객체의 세대/","noteIcon":"","created":"2024-11-10T15:01:49.000+09:00","updated":"2025-07-19T22:58:36.000+09:00"}
 ---
 
 > 객체가 **GC수집 검사**로부터 **얼마나 오래 생존**했는지를 세대로 구분한다

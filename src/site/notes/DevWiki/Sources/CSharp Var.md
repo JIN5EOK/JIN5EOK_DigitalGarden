@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/DevWiki/Sources/CSharp Var/","noteIcon":"","created":"2024-09-09T00:00:45.000+09:00","updated":"2025-07-19T22:58:36.951+09:00"}
+{"dg-publish":true,"permalink":"/DevWiki/Sources/CSharp Var/","noteIcon":"","created":"2024-09-09T00:00:45.000+09:00","updated":"2025-07-19T22:58:36.000+09:00"}
 ---
 
 # var vs 명시적 선언

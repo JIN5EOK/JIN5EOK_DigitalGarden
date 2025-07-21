@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/DevWiki/Sources/UML - 클래스 다이어그램/","noteIcon":"","created":"2024-10-13T15:17:23.000+09:00","updated":"2025-07-20T02:14:54.298+09:00"}
+{"dg-publish":true,"permalink":"/DevWiki/Sources/UML - 클래스 다이어그램/","noteIcon":"","created":"2024-10-13T15:17:23.000+09:00","updated":"2025-07-20T02:14:54.000+09:00"}
 ---
 
 # 클래스 다이어그램

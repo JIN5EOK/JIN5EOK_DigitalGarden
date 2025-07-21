@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/DevWiki/Sources/유니티 조건부 컴파일 (CSharp지시문, 전처리기) 관련/","noteIcon":"","created":"2024-09-18T17:59:01.000+09:00","updated":"2025-07-19T22:58:36.987+09:00"}
+{"dg-publish":true,"permalink":"/DevWiki/Sources/유니티 조건부 컴파일 (CSharp지시문, 전처리기) 관련/","noteIcon":"","created":"2024-09-18T17:59:01.000+09:00","updated":"2025-07-19T22:58:36.000+09:00"}
 ---
 
 ## 에디터에서 유니티 조건부 컴파일(C# 지시문)시 주의

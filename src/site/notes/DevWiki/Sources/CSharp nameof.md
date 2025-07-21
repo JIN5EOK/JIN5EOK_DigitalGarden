@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/DevWiki/Sources/CSharp nameof/","noteIcon":"","created":"2024-10-06T14:31:28.000+09:00","updated":"2025-07-19T22:58:36.956+09:00"}
+{"dg-publish":true,"permalink":"/DevWiki/Sources/CSharp nameof/","noteIcon":"","created":"2024-10-06T14:31:28.000+09:00","updated":"2025-07-19T22:58:36.000+09:00"}
 ---
 
 ### `nameof(value)`

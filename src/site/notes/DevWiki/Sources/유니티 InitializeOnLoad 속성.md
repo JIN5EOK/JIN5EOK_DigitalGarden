@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/DevWiki/Sources/유니티 InitializeOnLoad 속성/","noteIcon":"","created":"2024-09-18T17:56:38.000+09:00","updated":"2025-07-19T22:58:36.983+09:00"}
+{"dg-publish":true,"permalink":"/DevWiki/Sources/유니티 InitializeOnLoad 속성/","noteIcon":"","created":"2024-09-18T17:56:38.000+09:00","updated":"2025-07-19T22:58:36.000+09:00"}
 ---
 
 ### 개요

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/DevWiki/Sources/유니티 UI Toolkit/","noteIcon":"","created":"2024-09-17T17:48:33.000+09:00","updated":"2025-07-19T22:58:36.984+09:00"}
+{"dg-publish":true,"permalink":"/DevWiki/Sources/유니티 UI Toolkit/","noteIcon":"","created":"2024-09-17T17:48:33.000+09:00","updated":"2025-07-19T22:58:36.000+09:00"}
 ---
 
 https://youtu.be/fxlYxhhf83s?si=Mn3-hSfSV3DuTEA7

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/DevWiki/Sources/유니티 Surface Shader/","noteIcon":"","created":"2025-05-24T15:57:28.104+09:00","updated":"2025-07-19T22:58:36.995+09:00"}
+{"dg-publish":true,"permalink":"/DevWiki/Sources/유니티 Surface Shader/","noteIcon":"","created":"2025-05-24T15:57:28.000+09:00","updated":"2025-07-19T22:58:36.000+09:00"}
 ---
 
 
