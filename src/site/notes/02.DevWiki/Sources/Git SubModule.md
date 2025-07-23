@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/Git SubModule/","tags":["dg-publish"],"noteIcon":"","created":"2025-05-23T01:19:10.500+09:00","updated":"2025-07-19T22:58:36.974+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/Git SubModule/","tags":["dg-publish"],"noteIcon":"","created":"2025-05-23T01:19:10.000+09:00","updated":"2025-07-19T22:58:36.000+09:00"}
 ---
 
 > 하나의 저장소에 다른 저장소를 포함한다

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp 델리게이트 이벤트 실행과 멀티스레드/","noteIcon":"","created":"2024-10-06T14:29:04.000+09:00","updated":"2025-07-20T11:47:56.409+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp 델리게이트 이벤트 실행과 멀티스레드/","noteIcon":"","created":"2024-10-06T14:29:04.000+09:00","updated":"2025-07-20T11:47:56.000+09:00"}
 ---
 
 ### 빈 델리게이트 이벤트를 실행하게 된다면..

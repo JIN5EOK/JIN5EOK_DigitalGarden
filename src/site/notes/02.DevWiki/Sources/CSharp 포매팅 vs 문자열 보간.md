@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp 포매팅 vs 문자열 보간/","noteIcon":"","created":"2024-10-06T14:31:03.000+09:00","updated":"2025-07-19T22:58:36.960+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp 포매팅 vs 문자열 보간/","noteIcon":"","created":"2024-10-06T14:31:03.000+09:00","updated":"2025-07-19T22:58:36.000+09:00"}
 ---
 
 ## 포매팅

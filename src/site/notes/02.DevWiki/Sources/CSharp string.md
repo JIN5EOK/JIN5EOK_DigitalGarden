@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp string/","noteIcon":"","created":"2024-10-24T10:59:36.000+09:00","updated":"2025-07-19T22:58:36.955+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp string/","noteIcon":"","created":"2024-10-24T10:59:36.000+09:00","updated":"2025-07-19T22:58:36.000+09:00"}
 ---
 
 > string은 그 길이와 크기가 가변적으로 변하는 특징이 있다..
