@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp 공통 메서드 호출 초기화 vs 생성자 체이닝/","noteIcon":"","created":"2024-11-10T16:14:47.000+09:00","updated":"2025-07-19T22:58:36.000+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp 공통 메서드 호출 초기화 vs 생성자 체이닝/","noteIcon":"","created":"2024-11-10T16:14:47.000+09:00","updated":"2025-07-19T22:58:36.955+09:00"}
 ---
 
 ## 공통 메서드 호출

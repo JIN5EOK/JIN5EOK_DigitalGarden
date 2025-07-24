@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/DotNet GC vs Unity GC/","noteIcon":"","created":"2024-12-01T17:24:47.000+09:00","updated":"2025-07-19T22:58:36.000+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/DotNet GC vs Unity GC/","noteIcon":"","created":"2024-12-01T17:24:47.000+09:00","updated":"2025-07-19T22:58:36.975+09:00"}
 ---
 
 ### .NET GC vs Unity GC

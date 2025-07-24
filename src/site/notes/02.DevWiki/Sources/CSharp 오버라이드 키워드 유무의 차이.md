@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp 오버라이드 키워드 유무의 차이/","tags":["dg-publish"],"noteIcon":"","created":"2025-05-23T01:28:14.000+09:00","updated":"2025-07-19T22:58:36.000+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp 오버라이드 키워드 유무의 차이/","tags":["dg-publish"],"noteIcon":"","created":"2025-05-23T01:28:14.326+09:00","updated":"2025-07-19T22:58:36.967+09:00"}
 ---
 
 ### virtual, abstract 메서드를 Override하지 않고 구현해도 동작은 한다
