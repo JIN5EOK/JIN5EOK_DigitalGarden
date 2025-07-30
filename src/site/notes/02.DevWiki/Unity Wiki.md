@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Unity Wiki/","noteIcon":"","created":"2024-12-21T17:25:10.000+09:00","updated":"2025-07-19T22:58:51.264+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Unity Wiki/","noteIcon":"","created":"2024-12-21T17:25:10.000+09:00","updated":"2025-07-26T16:26:10.000+09:00"}
 ---
 
 ## 코어
@@ -37,3 +37,4 @@
 [[02.DevWiki/Sources/유니티 UI Toolkit\|유니티 UI Toolkit]]
 [[02.DevWiki/Sources/유니티 애니메이터 StateMachineBehaviour\|유니티 애니메이터 StateMachineBehaviour]]
 [[02.DevWiki/Sources/유니티 PlayableAPI\|유니티 PlayableAPI]]
+[[02.DevWiki/Sources/유니티 Surface Shader\|유니티 Surface Shader]]
