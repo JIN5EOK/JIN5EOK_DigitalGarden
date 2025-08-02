@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"],"noteIcon":"","created":"2025-07-19T17:50:27.279+09:00","updated":"2025-07-25T09:20:30.627+09:00"}
+{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"],"noteIcon":"","created":"2025-07-19T17:50:27.279+09:00","updated":"2025-08-02T10:11:55.082+09:00"}
 ---
 
-# 👨‍💻 Unity Game Client Programmer
+# 🪴🍄JIN5EOK's Digital Garden!🍄🪴
+
 
 > 안녕하세요! 유니티 클라이언트 개발자 JIN5EOK입니다! 
 
