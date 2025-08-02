@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/CSharp Wiki/","noteIcon":"","created":"2024-12-21T17:43:53.000+09:00","updated":"2025-07-26T16:25:57.000+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/CSharp Wiki/","noteIcon":"","created":"2024-12-21T17:43:53.000+09:00","updated":"2025-08-02T10:49:03.037+09:00"}
 ---
 
 ## 멀티스레드
@@ -22,7 +22,7 @@
 [[02.DevWiki/Sources/CSharp 델리게이트 이벤트 실행과 멀티스레드\|CSharp 델리게이트 이벤트 실행과 멀티스레드]]
 [[02.DevWiki/Sources/CSharp CancellationToken\|CSharp CancellationToken]]
 [[02.DevWiki/Sources/CSharp 인덱서\|CSharp 인덱서]]
-[[02.DevWiki/Sources/CSharp System.Object\|CSharp System.Object]]
+[[02.DevWiki/Sources/CSharp object (System.Object)\|CSharp object (System.Object)]]
 [[02.DevWiki/Sources/CSharp record\|CSharp record]]
 [[02.DevWiki/Sources/CSharp IDisposable\|CSharp IDisposable]]
 [[02.DevWiki/Sources/CSharp IEnumerable과 IEnumerator는 왜 나누어져 있을까\|CSharp IEnumerable과 IEnumerator는 왜 나누어져 있을까]]
