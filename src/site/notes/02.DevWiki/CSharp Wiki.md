@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/CSharp Wiki/","noteIcon":"","created":"2024-12-21T17:43:53.000+09:00","updated":"2025-08-02T10:49:03.037+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/CSharp Wiki/","noteIcon":"","created":"2024-12-21T17:43:53.000+09:00","updated":"2025-08-04T00:07:24.857+09:00"}
 ---
 
 ## 멀티스레드
-[[02.DevWiki/Sources/CSharp Race Condition (경쟁 상태)\|CSharp Race Condition (경쟁 상태)]]
+[[02.DevWiki/Sources/CSharp 멀티스레드\|CSharp 멀티스레드]]
 ## 가비지컬렉션
 [[02.DevWiki/Sources/DotNet Garbage Collection (닷넷 가비지컬렉션)\|DotNet Garbage Collection (닷넷 가비지컬렉션)]]
 [[02.DevWiki/Sources/Dotnet 객체의 세대\|Dotnet 객체의 세대]]
@@ -33,7 +33,6 @@
 [[02.DevWiki/Sources/CShrap ref out의 차이\|CShrap ref out의 차이]]
 [[02.DevWiki/Sources/CSharp string\|CSharp string]]
 [[02.DevWiki/Sources/CSharp Var\|CSharp Var]]
-[[02.DevWiki/Sources/CSharp 멀티스레드\|CSharp 멀티스레드]]
 [[02.DevWiki/Sources/CSharp 오버라이드 키워드 유무의 차이\|CSharp 오버라이드 키워드 유무의 차이]]
 [[02.DevWiki/Sources/CSharp 표준 Dispose 패턴\|CSharp 표준 Dispose 패턴]]
 [[02.DevWiki/Sources/CSharp 다차원 배열 vs 가변 배열\|CSharp 다차원 배열 vs 가변 배열]]
