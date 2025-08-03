@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp 표준 Dispose 패턴/","noteIcon":"","created":"2025-05-23T01:32:08.072+09:00","updated":"2025-07-19T22:58:36.969+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp 표준 Dispose 패턴/","noteIcon":"","created":"2025-05-23T01:32:08.072+09:00","updated":"2025-08-03T23:28:47.351+09:00"}
 ---
 
 
@@ -42,4 +42,4 @@ public class DisposableResourceHolder : IDisposable {
 	    - 반면 **비관리 메모리 영역은 GC가 다루지 않는 영역**이라 위와 같은 문제가 발생하지 않는다, 그렇기 때문에 소멸자에서 호출하는 **Dispose는 비관리 메모리만 해제**하도록 하는 것이다
 - **추가로**
     - Finalizer를 구현하면 가비지 컬렉터에 부하를 줄 수 있으니 메모리 누수에 대한 방어가 꼭 필요한 상황에만 최후의 방어선 느낌으로 사용해야 한다
-    - 모든 상황에 표준 Dispose 패턴을 구현할 필요는 없다, **Dispose시 비관리 메모리를 다뤄야 하면서 관리 메모리도 다뤄줘야 하는 상황에 사용하자**
+    - 모든 상황에 표준 Dispose 패턴을 구현할 필요는 없다, **Dispose시 비관리 메모리와 관리 메모리를 구분해서 해제해줄 필요가 있을 때 사용하자**

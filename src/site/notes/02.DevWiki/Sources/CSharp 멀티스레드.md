@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp 멀티스레드/","noteIcon":"","created":"2025-05-23T01:22:37.522+09:00","updated":"2025-07-19T22:58:36.961+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp 멀티스레드/","noteIcon":"","created":"2025-05-23T01:22:37.522+09:00","updated":"2025-08-03T23:39:04.211+09:00"}
 ---
 
 ## 멀티스레드 구현 방법들
@@ -29,7 +29,9 @@
 
 ## 동시접근 제한
 
-[멀티스레딩 환경에서의 동기화 문제](https://www.notion.so/1e6858a4236480adb9aeefe3f4b30946?pvs=21)
+> 각 방법들에 대한 설명들은 아래 문서를 참조하자
+
+[[02.DevWiki/Sources/멀티스레드 환경에서의 동기화 문제\|멀티스레드 환경에서의 동기화 문제]]
 
 ### lock
 
@@ -130,4 +132,4 @@ finally
 
 ### 관련 문서
 [[02.DevWiki/Sources/유니티에서의 메인스레드와 멀티스레딩\|유니티에서의 메인스레드와 멀티스레딩]]
-[[02.DevWiki/Sources/멀티스레딩 환경에서의 동기화 문제\|멀티스레딩 환경에서의 동기화 문제]]
+[[02.DevWiki/Sources/멀티스레드 환경에서의 동기화 문제\|멀티스레드 환경에서의 동기화 문제]]
