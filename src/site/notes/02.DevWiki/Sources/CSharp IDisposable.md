@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp IDisposable/","noteIcon":"","created":"2024-10-13T23:54:47.000+09:00","updated":"2025-07-19T22:58:36.000+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp IDisposable/","noteIcon":"","created":"2024-10-13T23:54:47.000+09:00","updated":"2025-07-19T22:58:36.946+09:00"}
 ---
 
 > 😊 IDisposable 인터페이스를 상속받고 Dispose 함수를 재정의하여 메모리를 해제시키는 동작을 수행할 수 있다

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/값 vs 참조 (Value vs Reference)/","noteIcon":"","created":"2024-10-09T15:51:12.000+09:00","updated":"2025-07-19T22:56:37.000+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/값 vs 참조 (Value vs Reference)/","noteIcon":"","created":"2024-10-09T15:51:12.000+09:00","updated":"2025-07-19T22:56:37.684+09:00"}
 ---
 
 

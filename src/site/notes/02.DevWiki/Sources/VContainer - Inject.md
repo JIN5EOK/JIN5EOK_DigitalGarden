@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/VContainer - Inject/","noteIcon":"","created":"2025-05-23T02:08:39.000+09:00","updated":"2025-07-19T22:58:36.000+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/VContainer - Inject/","noteIcon":"","created":"2025-05-23T02:08:39.141+09:00","updated":"2025-07-19T22:58:36.978+09:00"}
 ---
 
 # `[Inject]` 속성
