@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp 표준 Dispose 패턴/","noteIcon":"","created":"2025-05-23T01:32:08.072+09:00","updated":"2025-08-03T23:28:47.351+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp 표준 Dispose 패턴/","noteIcon":"","created":"2025-05-23T01:32:08.000+09:00","updated":"2025-08-03T23:28:47.000+09:00"}
 ---
 
 

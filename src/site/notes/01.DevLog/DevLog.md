@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01.DevLog/DevLog/","noteIcon":"","created":"2024-12-21T20:25:16.000+09:00","updated":"2025-07-20T03:13:07.403+09:00"}
+{"dg-publish":true,"permalink":"/01.DevLog/DevLog/","noteIcon":"","created":"2024-12-21T20:25:16.000+09:00","updated":"2025-07-20T03:13:07.000+09:00"}
 ---
 
 [[01.DevLog/Sources/241117_유니티 API는 메인스레드에서만 호출 가능함에 주의하자\|241117_유니티 API는 메인스레드에서만 호출 가능함에 주의하자]]

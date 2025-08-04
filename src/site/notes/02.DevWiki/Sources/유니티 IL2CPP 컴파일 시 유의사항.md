@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/유니티 IL2CPP 컴파일 시 유의사항/","noteIcon":"","created":"2024-09-15T18:29:30.000+09:00","updated":"2025-07-19T22:58:36.985+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/유니티 IL2CPP 컴파일 시 유의사항/","noteIcon":"","created":"2024-09-15T18:29:30.000+09:00","updated":"2025-07-19T22:58:36.000+09:00"}
 ---
 
 ### Reflection 방식 제한

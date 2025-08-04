@@ -1,0 +1,29 @@
+---
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/휴리스틱 알고리즘(Heuristic Algorithm)/","noteIcon":"","created":"2025-08-03T22:21:26.000+09:00","updated":"2025-08-03T22:30:18.000+09:00"}
+---
+
+# 휴리스틱 알고리즘 (Heuristic Algorithm)
+
+> 휴리스틱 알고리즘이란 완전한 최적해를 찾는 것이 아니라, 시간이나 정보가 불충분할 때 **합리적인** 수준에서 **근사해**를 찾는 데 사용되는 방법론이다.
+> 
+> 완전한 결과를 얻을 수 없거나 완전한 결과를 구하기엔 가성비가 극히 떨어지는 상황에서 최적의 해를 구하기 위한 접근법이라고 볼 수 있다.
+
+### 특징
+- **가성비가 좋다**
+	- 비용대비 만족스러운 해를 도출할 수 있다.
+- **최적의 해가 아닐 수 있음**
+	- 항상 최적의 해를 보장하지는 않는다.
+### 휴리스틱 예시
+
+- **[[02.DevWiki/Sources/그리디 알고리즘 (Greedy Algorithm)\|그리디 알고리즘 (Greedy Algorithm)]]**
+    - 각 단계에서 최선으로 보이는 선택을 함 (최적해 도출이 아님)
+
+- **[[02.DevWiki/Sources/에이스타 알고리즘 (A-Star Algorithm)\|에이스타 알고리즘 (A-Star Algorithm)]]**
+    - 현재 위치에서 목표까지의 **휴리스틱 값**을 사용하여 최적의 경로를 추정한다. 
+
+
+---
+### 관련 문서
+[[02.DevWiki/Sources/에이스타 알고리즘 (A-Star Algorithm)\|에이스타 알고리즘 (A-Star Algorithm)]]
+[[02.DevWiki/Sources/그리디 알고리즘 (Greedy Algorithm)\|그리디 알고리즘 (Greedy Algorithm)]]
+[[02.DevWiki/Sources/그리디 알고리즘과 동적 계획법의 차이\|그리디 알고리즘과 동적 계획법의 차이]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/에이스타 알고리즘 (A-Star Algorithm)/","noteIcon":"","created":"2024-07-20T21:34:18.000+09:00","updated":"2025-08-03T22:39:48.947+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/에이스타 알고리즘 (A-Star Algorithm)/","noteIcon":"","created":"2024-07-20T21:34:18.000+09:00","updated":"2025-08-03T22:39:48.000+09:00"}
 ---
 
 > 에이스타 알고리즘이란 다익스트라 알고리즘을 확장시켜 만들어진 길찾기 알고리즘이다
@@ -56,4 +56,4 @@ f(n) = g(n) + h(n)
 ### 관련 문서
 [[02.DevWiki/Sources/동적 계획법 (Dynamic Programming)\|동적 계획법 (Dynamic Programming)]]
 [[02.DevWiki/Sources/그리디 알고리즘 (Greedy Algorithm)\|그리디 알고리즘 (Greedy Algorithm)]]
-[[02.DevWiki/휴리스틱 알고리즘(Heuristic Algorithm)\|휴리스틱 알고리즘(Heuristic Algorithm)]]
+[[02.DevWiki/Sources/휴리스틱 알고리즘(Heuristic Algorithm)\|휴리스틱 알고리즘(Heuristic Algorithm)]]

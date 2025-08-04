@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/BoilerPlate/","noteIcon":"","created":"2024-10-09T15:51:12.000+09:00","updated":"2025-07-19T22:58:36.945+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/BoilerPlate/","noteIcon":"","created":"2024-10-09T15:51:12.000+09:00","updated":"2025-07-19T22:58:36.000+09:00"}
 ---
 
 - 코드를 작성하기 위해 항상 필요한 부분
