@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/DFS (깊이 우선 탐색, Depth-First Search)/","noteIcon":"","created":"2025-08-04T22:37:43.680+09:00","updated":"2025-08-05T00:35:43.221+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/DFS (깊이 우선 탐색, Depth-First Search)/","noteIcon":"","created":"2025-08-04T22:37:43.680+09:00","updated":"2025-08-05T01:10:09.925+09:00"}
 ---
 
 # DFS (깊이 우선 탐색, Depth-First Search)
 
 - **스택(Stack)** 또는 **재귀 함수**를 사용하여 구현.
-- 가능한 깊이 탐색하고, 더 이상 갈 곳이 없으면 이전 분기로 돌아가 탐색을 이어간다
-
+- **깊이를 우선적으로 탐색**, 더 이상 갈 곳이 없으면 이전 노드들을 하나씩 되짚어가며 탐색을 이어간다
 ### 특징
 - **장점**
     - 현재 경로상의 노드만 기억하면 되므로 **공간 복잡도가 낮다**.
