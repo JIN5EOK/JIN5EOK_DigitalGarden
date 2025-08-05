@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/DFS (깊이 우선 탐색, Depth-First Search)/","noteIcon":"","created":"2025-08-04T22:37:43.680+09:00","updated":"2025-08-05T01:10:09.925+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/DFS (깊이 우선 탐색, Depth-First Search)/","noteIcon":"","created":"2025-08-04T22:37:43.680+09:00","updated":"2025-08-05T09:26:46.912+09:00"}
 ---
 
 # DFS (깊이 우선 탐색, Depth-First Search)
@@ -18,7 +18,14 @@
 ### 시간 복잡도
 >  - V: 정점(Vertex)의 수
     - E: 간선(Edge)의 수
-* **인접리스트**일 경우
+* **인접리스트**로 구현시
 	- **O(V + E)**
-* **인접 행렬**일 경우
+* **인접 행렬**로 구현시
 	* **O(V²)**
+
+### DFS를 사용해야 할 때
+* **최단 경로가 아니라도 최대한 빠르게** 경로를 찾고 싶을 때
+* **공간 복잡도**가 중요할 때
+---
+### 관련 문서
+[[02.DevWiki/BFS (너비 우선 탐색, Breadth-First Search)\|BFS (너비 우선 탐색, Breadth-First Search)]]
