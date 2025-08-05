@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/CS Wiki/","noteIcon":"","created":"2024-12-21T18:04:35.000+09:00","updated":"2025-08-05T11:33:29.908+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/CS Wiki/","noteIcon":"","created":"2024-12-21T18:04:35.000+09:00","updated":"2025-08-05T11:42:42.933+09:00"}
 ---
 
 
@@ -10,7 +10,7 @@
 [[02.DevWiki/Sources/값 vs 참조 (Value vs Reference)\|값 vs 참조 (Value vs Reference)]]
 [[02.DevWiki/Sources/박싱과 언박싱\|박싱과 언박싱]]
 [[02.DevWiki/Sources/Base64\|Base64]]
-[[02.DevWiki/Sources/인터닝\|인터닝]]
+[[02.DevWiki/Sources/인터닝 (Interning)\|인터닝 (Interning)]]
 [[02.DevWiki/Sources/BoilerPlate\|BoilerPlate]]
 [[02.DevWiki/Sources/UTF-8, UTF-16, UTF-32\|UTF-8, UTF-16, UTF-32]]
 [[02.DevWiki/Sources/UML - 클래스 다이어그램\|UML - 클래스 다이어그램]]
