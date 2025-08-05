@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Algorithm Wiki/","noteIcon":"","created":"2025-06-07T03:14:38.670+09:00","updated":"2025-08-05T00:37:07.968+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Algorithm Wiki/","noteIcon":"","created":"2025-06-07T03:14:38.670+09:00","updated":"2025-08-05T09:28:35.662+09:00"}
 ---
 
 [[02.DevWiki/Sources/시간복잡도와 공간복잡도\|시간복잡도와 공간복잡도]]
@@ -13,3 +13,4 @@
 [[02.DevWiki/Sources/MD5 (Message Digest Algorithm 5)\|MD5 (Message Digest Algorithm 5)]]
 [[02.DevWiki/Sources/SHA (Secure Hash Algorithm)\|SHA (Secure Hash Algorithm)]]
 [[02.DevWiki/Sources/DFS (깊이 우선 탐색, Depth-First Search)\|DFS (깊이 우선 탐색, Depth-First Search)]]
+[[02.DevWiki/BFS (너비 우선 탐색, Breadth-First Search)\|BFS (너비 우선 탐색, Breadth-First Search)]]
