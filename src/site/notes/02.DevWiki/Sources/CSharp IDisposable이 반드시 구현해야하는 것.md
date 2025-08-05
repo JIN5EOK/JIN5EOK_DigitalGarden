@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp IDisposable이 반드시 구현해야하는 것/","noteIcon":"","created":"2024-12-01T17:25:23.000+09:00","updated":"2025-07-19T23:03:14.000+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp IDisposable이 반드시 구현해야하는 것/","noteIcon":"","created":"2024-12-01T17:25:23.000+09:00","updated":"2025-07-19T23:03:14.672+09:00"}
 ---
 
 ### Dispose가 수행해야 할 일들

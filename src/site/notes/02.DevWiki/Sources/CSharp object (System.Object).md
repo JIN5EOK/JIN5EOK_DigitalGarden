@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp object (System.Object)/","noteIcon":"","created":"2024-10-01T11:42:45.000+09:00","updated":"2025-08-02T10:49:22.000+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp object (System.Object)/","noteIcon":"","created":"2024-10-01T11:42:45.000+09:00","updated":"2025-08-02T10:49:22.041+09:00"}
 ---
 
 ### System.Object

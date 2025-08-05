@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp 소멸자(Finalizer) vs IDisposable/","noteIcon":"","created":"2024-11-10T15:02:57.000+09:00","updated":"2025-07-19T22:58:36.000+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp 소멸자(Finalizer) vs IDisposable/","noteIcon":"","created":"2024-11-10T15:02:57.000+09:00","updated":"2025-07-19T22:58:36.957+09:00"}
 ---
 
 >수동으로 해제해주어야 하는 리소스가 있을 때 어떤 방식을 사용하는것이 좋을까?
