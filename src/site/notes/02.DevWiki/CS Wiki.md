@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/CS Wiki/","noteIcon":"","created":"2024-12-21T18:04:35.000+09:00","updated":"2025-08-04T14:28:36.000+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/CS Wiki/","noteIcon":"","created":"2024-12-21T18:04:35.000+09:00","updated":"2025-08-03T23:39:04.000+09:00"}
 ---
 
 [[02.DevWiki/Sources/동적 타이핑, 정적 타이핑 (Type + ing)\|동적 타이핑, 정적 타이핑 (Type + ing)]]
@@ -27,3 +27,4 @@
 [[02.DevWiki/Sources/리포지토리 패턴 (Repository Pattern)\|리포지토리 패턴 (Repository Pattern)]]
 [[02.DevWiki/Sources/메모리 정렬 (Memory Alignment)\|메모리 정렬 (Memory Alignment)]]
 [[02.DevWiki/Sources/False Sharing (거짓 공유)\|False Sharing (거짓 공유)]]
+[[101.StudyNotes/Quiz/2025-08-02\|101.StudyNotes/Quiz/2025-08-02]]

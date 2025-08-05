@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/DFS (깊이 우선 탐색, Depth-First Search)/","noteIcon":"","created":"2025-08-04T22:37:43.680+09:00","updated":"2025-08-05T09:26:46.912+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/DFS (깊이 우선 탐색, Depth-First Search)/","noteIcon":"","created":"2025-08-04T22:37:43.000+09:00","updated":"2025-08-05T10:23:08.000+09:00"}
 ---
 
 # DFS (깊이 우선 탐색, Depth-First Search)
@@ -26,6 +26,11 @@
 ### DFS를 사용해야 할 때
 * **최단 경로가 아니라도 최대한 빠르게** 경로를 찾고 싶을 때
 * **공간 복잡도**가 중요할 때
+
+### 백트래킹을 통해 성능을 개선시킬 수 있음
+* [[02.DevWiki/Sources/백트래킹 (Backtracking)\|백트래킹 (Backtracking)]] - 현재 단계에서 더 이상 탐색할 필요가 있을지 판단하는 **가지치기**를 통해 성능 개선
+
 ---
 ### 관련 문서
-[[02.DevWiki/BFS (너비 우선 탐색, Breadth-First Search)\|BFS (너비 우선 탐색, Breadth-First Search)]]
+[[02.DevWiki/Sources/BFS (너비 우선 탐색, Breadth-First Search)\|BFS (너비 우선 탐색, Breadth-First Search)]]
+[[02.DevWiki/Sources/백트래킹 (Backtracking)\|백트래킹 (Backtracking)]]

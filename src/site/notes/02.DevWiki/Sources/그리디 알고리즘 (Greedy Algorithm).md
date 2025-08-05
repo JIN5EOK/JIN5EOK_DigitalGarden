@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/그리디 알고리즘 (Greedy Algorithm)/","noteIcon":"","created":"2025-08-03T19:44:46.620+09:00","updated":"2025-08-03T20:26:45.153+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/그리디 알고리즘 (Greedy Algorithm)/","noteIcon":"","created":"2025-08-03T19:44:46.000+09:00","updated":"2025-08-03T20:26:45.000+09:00"}
 ---
 
 # 그리디 알고리즘 (Greedy Algorithm)

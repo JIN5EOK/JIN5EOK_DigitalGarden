@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/유니티 스크립팅 백엔드 Mono, IL2CPP/","noteIcon":"","created":"2024-09-15T17:43:18.000+09:00","updated":"2025-07-19T22:58:36.986+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/유니티 스크립팅 백엔드 Mono, IL2CPP/","noteIcon":"","created":"2024-09-15T17:43:18.000+09:00","updated":"2025-07-19T22:58:36.000+09:00"}
 ---
 
 ### Mono (JIT, Just In Time)
