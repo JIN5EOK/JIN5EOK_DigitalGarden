@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp 오버라이드 키워드 유무의 차이/","tags":["dg-publish"],"noteIcon":"","created":"2025-05-23T01:28:14.326+09:00","updated":"2025-07-19T22:58:36.967+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp 오버라이드 키워드 유무의 차이/","tags":["dg-publish"],"noteIcon":"","created":"2025-05-23T01:28:14.326+09:00","updated":"2025-08-05T12:04:34.391+09:00"}
 ---
 
 ### virtual, abstract 메서드를 Override하지 않고 구현해도 동작은 한다
@@ -7,10 +7,10 @@
 - Override 유무는 뭐가 다른가?
     - **Override 있을 때**
         - 이름만 같은 **새로운 메서드 생성**
-        - 부모 타입으로 형변환 된 상태서 메서드 호출시 부모 메서드 호출
+        - **부모 타입으로 형변환** 된 상태서 메서드 호출시 **부모 함수 호출**
     - **Override 없을 때**
         - 부모의 **메서드를 상속**받는다
-        - 부모 타입 형변환 상태에서도 정상적으로 Override된 자식 함수 호출
+        - **부모 타입으로 형변환** 상태에서도 정상적으로 **Override된 자식 함수 호출**
 
 > 만약 오버라이드 안함이 의도된 것이라면 new 키워드를 붙여 의도를 명확하게 드러내주는 것이 권장됨
 
