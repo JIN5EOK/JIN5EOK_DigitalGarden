@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/동적 계획법 (Dynamic Programming)/","noteIcon":"","created":"2025-06-07T03:15:43.635+09:00","updated":"2025-08-03T22:31:42.402+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/동적 계획법 (Dynamic Programming)/","noteIcon":"","created":"2025-06-07T03:15:43.635+09:00","updated":"2025-08-06T14:27:22.000+09:00"}
 ---
 
 
@@ -25,6 +25,7 @@
 
 > 메모제이션은 재귀 호출로 인해 성능이 저하되는 부분이 있어 타뷸레이션이 성능적으로 우수한 경우가 많다
 
+---
 ### 관련 문서
 [[02.DevWiki/Sources/LCS (Longest Common Subsequence, Longest Common Substring)\|LCS (Longest Common Subsequence, Longest Common Substring)]]
 [[02.DevWiki/Sources/그리디 알고리즘 (Greedy Algorithm)\|그리디 알고리즘 (Greedy Algorithm)]]
