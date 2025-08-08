@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Unity Wiki/","noteIcon":"","created":"2024-12-21T17:25:10.000+09:00","updated":"2025-08-06T14:26:42.000+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Unity Wiki/","noteIcon":"","created":"2024-12-21T17:25:10.000+09:00","updated":"2025-08-08T23:15:31.575+09:00"}
 ---
 
-### 코어
+### 메모리
 [[02.DevWiki/Sources/유니티 관리되는 코드 스트리핑\|유니티 관리되는 코드 스트리핑]]
 [[02.DevWiki/Sources/유니티 관리되는 메모리\|유니티 관리되는 메모리]]
 [[02.DevWiki/Sources/유니티 스크립팅 영역, 코어 영역\|유니티 스크립팅 영역, 코어 영역]]
@@ -38,3 +38,4 @@
 [[02.DevWiki/Sources/유니티 애니메이터 StateMachineBehaviour\|유니티 애니메이터 StateMachineBehaviour]]
 [[02.DevWiki/Sources/유니티 PlayableAPI\|유니티 PlayableAPI]]
 [[02.DevWiki/Sources/유니티 Surface Shader\|유니티 Surface Shader]]
+[[02.DevWiki/Sources/유니티 드로우콜과 배치\|유니티 드로우콜과 배치]]
