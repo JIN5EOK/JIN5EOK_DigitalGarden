@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/CS Wiki/","noteIcon":"","created":"2024-12-21T18:04:35.000+09:00","updated":"2025-08-05T13:48:44.215+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/CS Wiki/","noteIcon":"","created":"2024-12-21T18:04:35.000+09:00","updated":"2025-08-09T11:59:24.067+09:00"}
 ---
 
 ### 일반
@@ -33,7 +33,7 @@
 [[02.DevWiki/Sources/TCP vs UDP\|TCP vs UDP]]
 [[02.DevWiki/Sources/IP (Internet Protocol)\|IP (Internet Protocol)]]
 [[02.DevWiki/Sources/유니캐스트,멀티캐스트,브로드캐스트\|유니캐스트,멀티캐스트,브로드캐스트]]
-
+[[02.DevWiki/Sources/CDN (Content Delivery Network)\|CDN (Content Delivery Network)]]
 ### 잡지식
 [[02.DevWiki/Sources/이모지의 코드 구성 방식\|이모지의 코드 구성 방식]]
 [[02.DevWiki/Sources/IOS 백그라운드 작업\|IOS 백그라운드 작업]]
