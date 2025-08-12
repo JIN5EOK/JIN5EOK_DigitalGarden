@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/브루트포스 (Brute-force)/","noteIcon":"","created":"2025-08-05T10:18:05.354+09:00","updated":"2025-08-05T10:22:08.444+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/브루트포스 (Brute-force)/","noteIcon":"","created":"2025-08-05T10:18:05.354+09:00","updated":"2025-08-12T10:27:35.849+09:00"}
 ---
 
 # 브루트포스 (Brute-force)
 
 > **가능한 모든 경우의 수를 전부 탐색**하여 문제를 해결하는 알고리즘
-
+* O(n)
 - 가장 **간단하고 직관적**인 문제 해결 방법.
 - 해를 반드시 찾을 수 있다는 장점이 있지만 **비효율적**.
 ### 사용처
