@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Algorithm Wiki/","noteIcon":"","created":"2025-06-07T03:14:38.670+09:00","updated":"2025-08-12T10:34:11.452+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Algorithm Wiki/","noteIcon":"","created":"2025-06-07T03:14:38.670+09:00","updated":"2025-08-13T21:28:24.208+09:00"}
 ---
 
 ### 이론 & 방법론
@@ -19,5 +19,9 @@
 [[02.DevWiki/Sources/BFS (너비 우선 탐색, Breadth-First Search)\|BFS (너비 우선 탐색, Breadth-First Search)]]
 [[02.DevWiki/Sources/백트래킹 (Backtracking)\|백트래킹 (Backtracking)]]
 [[02.DevWiki/Sources/이진 탐색 (Binary Search)\|이진 탐색 (Binary Search)]]
+
+### 기하 (Geometry)
+[[02.DevWiki/Sources/벡터의 내적과 외적 (Dot and Cross Product)\|벡터의 내적과 외적 (Dot and Cross Product)]]
+[[02.DevWiki/Sources/삼각함수 (Trigonometric Functions)\|삼각함수 (Trigonometric Functions)]]
 
 

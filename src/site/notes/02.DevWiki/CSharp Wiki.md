@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/CSharp Wiki/","noteIcon":"","created":"2024-12-21T17:43:53.000+09:00","updated":"2025-08-06T14:26:34.000+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/CSharp Wiki/","noteIcon":"","created":"2024-12-21T17:43:53.000+09:00","updated":"2025-08-13T10:28:17.962+09:00"}
 ---
 
 ### 멀티스레드
@@ -36,3 +36,7 @@
 [[02.DevWiki/Sources/CSharp 오버라이드 키워드 유무의 차이\|CSharp 오버라이드 키워드 유무의 차이]]
 [[02.DevWiki/Sources/CSharp 표준 Dispose 패턴\|CSharp 표준 Dispose 패턴]]
 [[02.DevWiki/Sources/CSharp 다차원 배열 vs 가변 배열\|CSharp 다차원 배열 vs 가변 배열]]
+
+### 기하 (Geometry)
+[[02.DevWiki/Sources/벡터의 내적과 외적 (Dot and Cross Product)\|벡터의 내적과 외적 (Dot and Cross Product)]]
+
