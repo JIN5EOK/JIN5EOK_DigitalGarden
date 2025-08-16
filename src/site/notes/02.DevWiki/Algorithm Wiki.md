@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Algorithm Wiki/","noteIcon":"","created":"2025-06-07T03:14:38.670+09:00","updated":"2025-08-13T21:28:24.208+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Algorithm Wiki/","noteIcon":"","created":"2025-06-07T03:14:38.670+09:00","updated":"2025-08-16T14:57:28.948+09:00"}
 ---
 
 ### 이론 & 방법론
@@ -22,6 +22,5 @@
 
 ### 기하 (Geometry)
 [[02.DevWiki/Sources/벡터의 내적과 외적 (Dot and Cross Product)\|벡터의 내적과 외적 (Dot and Cross Product)]]
-[[02.DevWiki/Sources/삼각함수 (Trigonometric Functions)\|삼각함수 (Trigonometric Functions)]]
 
 
