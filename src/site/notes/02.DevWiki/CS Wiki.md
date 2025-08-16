@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/CS Wiki/","noteIcon":"","created":"2024-12-21T18:04:35.000+09:00","updated":"2025-08-16T15:26:29.236+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/CS Wiki/","noteIcon":"","created":"2024-12-21T18:04:35.000+09:00","updated":"2025-08-16T15:37:20.905+09:00"}
 ---
 
 ### 일반
@@ -37,3 +37,6 @@
 ### 잡지식
 [[02.DevWiki/Sources/이모지의 코드 구성 방식\|이모지의 코드 구성 방식]]
 [[02.DevWiki/Sources/IOS 백그라운드 작업\|IOS 백그라운드 작업]]
+
+### 기하 (Geometry)
+[[02.DevWiki/Sources/벡터의 내적과 외적 (Dot and Cross Product)\|벡터의 내적과 외적 (Dot and Cross Product)]]
