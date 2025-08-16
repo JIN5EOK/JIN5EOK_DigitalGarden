@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp 표준 Dispose 패턴/","noteIcon":"","created":"2025-05-23T01:32:08.072+09:00","updated":"2025-08-16T22:39:41.963+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp 표준 Dispose 패턴/","noteIcon":"","created":"2025-05-23T01:32:08.072+09:00","updated":"2025-08-16T22:42:30.515+09:00"}
 ---
 
 
@@ -30,7 +30,12 @@ public class DisposableResourceHolder : IDisposable {
 ```
 
 > 핵심 요지는 IDisposable 인터페이스를 구현하면서 추가로 `protected void Dispose(bool disposing)` 함수를 구현하는 것이다.
-> 
+### bool disposing이 뭘까?
+* **True**
+	* 관리되는 리소스,관리되지 않는  **리소스 모두 해제**
+* **False**
+	* **관리되지 않는 리소스만** 해제
+
 * **disposing 파라미터의 차이**
 	* disposing == true → **괸리 메모리** 및 **비관리 메모리** 둘다 해제한다    
 	- disposing == false → **비관리 메모리**만 해제한다
