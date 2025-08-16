@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/CSharp Wiki/","noteIcon":"","created":"2024-12-21T17:43:53.000+09:00","updated":"2025-08-13T10:28:17.962+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/CSharp Wiki/","noteIcon":"","created":"2024-12-21T17:43:53.000+09:00","updated":"2025-08-16T15:24:33.263+09:00"}
 ---
 
 ### 멀티스레드
@@ -31,7 +31,7 @@
 [[02.DevWiki/Sources/CSharp LinQ\|CSharp LinQ]]
 [[02.DevWiki/Sources/CSharp Partial 클래스\|CSharp Partial 클래스]]
 [[02.DevWiki/Sources/CShrap ref out의 차이\|CShrap ref out의 차이]]
-[[02.DevWiki/Sources/CSharp string\|CSharp string]]
+[[02.DevWiki/Sources/CSharp string의 특성과 사용시 주의사항\|CSharp string의 특성과 사용시 주의사항]]
 [[02.DevWiki/Sources/CSharp Var\|CSharp Var]]
 [[02.DevWiki/Sources/CSharp 오버라이드 키워드 유무의 차이\|CSharp 오버라이드 키워드 유무의 차이]]
 [[02.DevWiki/Sources/CSharp 표준 Dispose 패턴\|CSharp 표준 Dispose 패턴]]
