@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp string의 특성과 사용시 주의사항/","noteIcon":"","created":"2024-10-24T10:59:36.000+09:00","updated":"2025-08-16T15:24:37.083+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp string의 특성과 사용시 주의사항/","noteIcon":"","created":"2024-10-24T10:59:36.000+09:00","updated":"2025-08-16T15:25:30.775+09:00"}
 ---
 
 # CSharp string의 특성과 사용시 주의사항
@@ -65,3 +65,7 @@ string result = sb.ToString(); // 마지막에 딱 한 번만 string 생성됨
 	* 오버라이딩을 하면 형변환이 된 상태에서도 자식 클래스의 기능이 호출되기 때문임
 	* 참고 : [[02.DevWiki/Sources/CSharp 오버라이드 키워드 유무의 차이\|CSharp 오버라이드 키워드 유무의 차이]]
 
+---
+### 관련 문서
+[[02.DevWiki/Sources/인터닝 (Interning)\|인터닝 (Interning)]]
+[[02.DevWiki/Sources/CSharp 오버라이드 키워드 유무의 차이\|CSharp 오버라이드 키워드 유무의 차이]]
