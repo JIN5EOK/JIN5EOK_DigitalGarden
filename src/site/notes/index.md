@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"],"noteIcon":"","created":"2025-07-19T17:50:27.279+09:00","updated":"2025-08-02T10:17:20.007+09:00"}
+{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"],"noteIcon":"","created":"2025-07-19T17:50:27.279+09:00","updated":"2025-08-16T22:53:49.324+09:00"}
 ---
 
 # 🪴JIN5EOK's Digital Garden
@@ -15,8 +15,9 @@
 
 > 개발 관련 지식들을 정리해둔 위키입니다
  
-[[02.DevWiki/Algorithm Wiki\|Algorithm Wiki]]
+[[02.DevWiki/Unity Wiki\|Unity Wiki]]
 [[02.DevWiki/CS Wiki\|CS Wiki]]
 [[02.DevWiki/CSharp Wiki\|CSharp Wiki]]
 [[02.DevWiki/Data Structure Wiki\|Data Structure Wiki]]
-[[02.DevWiki/Unity Wiki\|Unity Wiki]]
+[[02.DevWiki/Algorithm Wiki\|Algorithm Wiki]]
+
