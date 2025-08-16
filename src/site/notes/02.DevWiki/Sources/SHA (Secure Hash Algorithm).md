@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/SHA (Secure Hash Algorithm)/","noteIcon":"","created":"2025-07-06T17:52:04.420+09:00","updated":"2025-07-20T02:23:38.921+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/SHA (Secure Hash Algorithm)/","noteIcon":"","created":"2025-07-06T17:52:04.420+09:00","updated":"2025-08-16T14:56:57.608+09:00"}
 ---
 
 
@@ -10,7 +10,6 @@
 		* 충돌이 일어날 가능성이 **매우 낮은 편** (가능성이 아예 없는 것은 아님)
 	* 효율적 연산
 		* MD5보단 느리지만 여전히 빠르다
-	* 
 
 ---
 ### 관련 문서
