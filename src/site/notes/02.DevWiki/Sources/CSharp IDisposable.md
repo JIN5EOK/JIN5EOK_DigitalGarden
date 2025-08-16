@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp IDisposable/","noteIcon":"","created":"2024-10-13T23:54:47.000+09:00","updated":"2025-07-19T22:58:36.946+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp IDisposable/","noteIcon":"","created":"2024-10-13T23:54:47.000+09:00","updated":"2025-08-16T22:39:48.865+09:00"}
 ---
 
 > 😊 IDisposable 인터페이스를 상속받고 Dispose 함수를 재정의하여 메모리를 해제시키는 동작을 수행할 수 있다
@@ -9,7 +9,7 @@ IDisposable 인터페이스는 Dispose(bool disposing) 함수를 제공
 ### bool disposing이 뭔데..?
 * **True**
 	* 관리되는 리소스,관리되지 않는  **리소스 모두 해제**
-* **False 
+* **False**
 	* **관리되지 않는 리소스만** 해제
 ### **관리되지 않는 리소스** 해제
 
@@ -23,3 +23,7 @@ IDisposable 인터페이스는 Dispose(bool disposing) 함수를 제공
 
 ### ETC
 * 수동으로 Dispose를 수행한 후 GC.SuppressFinalize(this)를 호출하여 가비지 컬렉터가 해당 객체를 수거할 때 Dispose가 중복으로 호출되지 않도록 막을 수 있다
+---
+### 관련 문서
+[[02.DevWiki/Sources/CSharp 표준 Dispose 패턴\|CSharp 표준 Dispose 패턴]]
+[[02.DevWiki/Sources/CSharp IDisposable이 반드시 구현해야하는 것\|CSharp IDisposable이 반드시 구현해야하는 것]]

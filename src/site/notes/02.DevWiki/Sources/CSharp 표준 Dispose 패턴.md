@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp 표준 Dispose 패턴/","noteIcon":"","created":"2025-05-23T01:32:08.072+09:00","updated":"2025-08-03T23:28:47.351+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp 표준 Dispose 패턴/","noteIcon":"","created":"2025-05-23T01:32:08.072+09:00","updated":"2025-08-16T22:39:41.963+09:00"}
 ---
 
 
@@ -43,3 +43,7 @@ public class DisposableResourceHolder : IDisposable {
 - **추가로**
     - Finalizer를 구현하면 가비지 컬렉터에 부하를 줄 수 있으니 메모리 누수에 대한 방어가 꼭 필요한 상황에만 최후의 방어선 느낌으로 사용해야 한다
     - 모든 상황에 표준 Dispose 패턴을 구현할 필요는 없다, **Dispose시 비관리 메모리와 관리 메모리를 구분해서 해제해줄 필요가 있을 때 사용하자**
+
+---
+### 관련 문서
+[[02.DevWiki/Sources/CSharp IDisposable\|CSharp IDisposable]]

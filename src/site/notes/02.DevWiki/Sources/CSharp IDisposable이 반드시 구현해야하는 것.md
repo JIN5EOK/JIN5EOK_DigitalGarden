@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp IDisposable이 반드시 구현해야하는 것/","noteIcon":"","created":"2024-12-01T17:25:23.000+09:00","updated":"2025-07-19T23:03:14.672+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp IDisposable이 반드시 구현해야하는 것/","noteIcon":"","created":"2024-12-01T17:25:23.000+09:00","updated":"2025-08-16T22:39:04.704+09:00"}
 ---
 
 ### Dispose가 수행해야 할 일들
@@ -9,3 +9,7 @@
 ### 주의사항
 * Dispose나 Finalizer에서 리소스 해제 외의 다른작업은 절대로 수행해선 안된다
 	* 소멸자 호출시 이미 객체 수집이 완료되었다고 판단되므로 그 이후로 생성되는 객체들은 수집이 되지 않을 수 있다.
+
+---
+### 관련 문서
+[[02.DevWiki/Sources/CSharp IDisposable\|CSharp IDisposable]]
