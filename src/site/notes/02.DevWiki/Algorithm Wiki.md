@@ -21,7 +21,3 @@
 [[02.DevWiki/Sources/백트래킹 (Backtracking)\|백트래킹 (Backtracking)]]
 [[02.DevWiki/Sources/이진 탐색 (Binary Search)\|이진 탐색 (Binary Search)]]
 
-### 기하 (Geometry)
-[[02.DevWiki/Sources/벡터의 내적과 외적 (Dot and Cross Product)\|벡터의 내적과 외적 (Dot and Cross Product)]]
-
-

@@ -39,5 +39,3 @@
 [[02.DevWiki/Sources/이모지의 코드 구성 방식\|이모지의 코드 구성 방식]]
 [[02.DevWiki/Sources/IOS 백그라운드 작업\|IOS 백그라운드 작업]]
 
-### 기하
-[[02.DevWiki/Sources/벡터의 내적과 외적 (Dot and Cross Product)\|벡터의 내적과 외적 (Dot and Cross Product)]]
