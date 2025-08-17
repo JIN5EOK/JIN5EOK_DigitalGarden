@@ -25,5 +25,5 @@
 
 ---
 ### 관련 문서 
-[[02.DevWiki/Sources/Dotnet 객체의 세대\|Dotnet 객체의 세대]]
+[[02.DevWiki/Sources/DotNet 객체의 세대\|DotNet 객체의 세대]]
 [[02.DevWiki/Sources/DotNet GC vs Unity GC\|DotNet GC vs Unity GC]]

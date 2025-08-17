@@ -28,7 +28,7 @@
 
 ### 가비지컬렉션
 [[02.DevWiki/Sources/DotNet Garbage Collection (닷넷 가비지컬렉션)\|DotNet Garbage Collection (닷넷 가비지컬렉션)]]
-[[02.DevWiki/Sources/Dotnet 객체의 세대\|Dotnet 객체의 세대]]
+[[02.DevWiki/Sources/DotNet 객체의 세대\|DotNet 객체의 세대]]
 [[02.DevWiki/Sources/DotNet GC vs Unity GC\|DotNet GC vs Unity GC]]
 [[02.DevWiki/Sources/CSharp 소멸자(Finalizer) vs IDisposable\|CSharp 소멸자(Finalizer) vs IDisposable]]
 
