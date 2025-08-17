@@ -18,5 +18,6 @@
 [[02.DevWiki/Unity Wiki\|Unity Wiki]]
 [[02.DevWiki/CS Wiki\|CS Wiki]]
 [[02.DevWiki/CSharp Wiki\|CSharp Wiki]]
-[[02.DevWiki/Data Structure Wiki\|Data Structure Wiki]]
 [[02.DevWiki/Algorithm Wiki\|Algorithm Wiki]]
+[[02.DevWiki/Data Structure Wiki\|Data Structure Wiki]]
+[[02.DevWiki/Math Wiki\|Math Wiki]]
