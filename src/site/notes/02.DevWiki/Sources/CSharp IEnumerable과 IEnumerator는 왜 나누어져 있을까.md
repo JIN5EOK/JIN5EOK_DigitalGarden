@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp IEnumerable과 IEnumerator는 왜 나누어져 있을까/","noteIcon":"","created":"2024-10-01T11:39:43.000+09:00","updated":"2025-08-17T14:48:19.648+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp IEnumerable과 IEnumerator는 왜 나누어져 있을까/","noteIcon":"","created":"2024-10-01T11:39:43.000+09:00","updated":"2025-08-17T14:48:25.942+09:00"}
 ---
 
 ## IEnumerable과 IEnumerator는 왜 나누어져 있을까?
 두가지 인터페이스의 역할은 아래와 같다
 ### IEnumerable
-* **새로운 IEnumerator를 반환**하는 함수 **GetEnumerator()**를 구현해야 함
+* **새로운 IEnumerator를 반환**하는 함수 **GetEnumerator()** 를 구현해야 함
 * 동일한 방법으로 컬렉션을 **반복 가능함을 정의**
 * **foreach문**으로 순회 가능
 ### IEnumerator
