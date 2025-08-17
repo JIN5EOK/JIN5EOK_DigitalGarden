@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/유니티 DI프레임워크 - VContainer/","noteIcon":"","created":"2025-05-23T02:07:38.739+09:00","updated":"2025-07-19T22:58:36.992+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/유니티 DI프레임워크 - VContainer/","noteIcon":""}
 ---
 
 - 유니티 DI프레임 워크 중 가장 널리 쓰임

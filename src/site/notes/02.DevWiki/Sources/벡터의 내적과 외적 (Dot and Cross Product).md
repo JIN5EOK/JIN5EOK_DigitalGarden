@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/벡터의 내적과 외적 (Dot and Cross Product)/","noteIcon":"","created":"2025-08-13T10:06:43.642+09:00","updated":"2025-08-13T21:26:18.711+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/벡터의 내적과 외적 (Dot and Cross Product)/","noteIcon":""}
 ---
 
 # 벡터의 내적과 외적 (Dot and Cross Product)
@@ -44,26 +44,3 @@
 **주요 사용처:**
 -   평면의 **법선 벡터(Normal Vector)** 계산 (ex: 지형의 경사면 방향 계산)
 -   두 벡터가 정의하는 평면에 대한 회전축 계산
-
-### Unity 예시
-
-```csharp
-// 벡터 a와 b에 모두 수직인 벡터 c를 계산한다.
-Vector3 c = Vector3.Cross(a, b);
-
-// 평면의 법선 벡터 계산 예시
-Vector3 sideVector = vertex2 - vertex1;
-Vector3 forwardVector = vertex3 - vertex1;
-Vector3 normalVector = Vector3.Cross(sideVector, forwardVector).normalized;
-```
-
----
-
-## 요약 비교
-
-| 구분         | 내적 (Dot Product)                               | 외적 (Cross Product)                                 |
-| :----------- | :----------------------------------------------- | :--------------------------------------------------- |
-| **결과 타입**  | 스칼라 (Scalar, `float`)                         | 벡터 (Vector, `Vector3`)                             |
-| **주요 목적**  | 두 벡터의 방향 관계 확인 (각도, 투영)            | 두 벡터에 수직인 벡터 계산 (법선 벡터)               |
-| **핵심 공식**  | \|A\| \|B\| cos(θ)                               | \|A\| \|B\| sin(θ) 크기를 갖는 수직 벡터            |
-| **교환 법칙**  | 성립 (`A · B = B · A`)                           | 성립 안 함 (`A x B = - (B x A)`)                     |

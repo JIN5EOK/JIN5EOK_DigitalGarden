@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/그래프 (Graph)/","noteIcon":"","created":"2025-08-06T00:00:42.759+09:00","updated":"2025-08-06T00:09:58.039+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/그래프 (Graph)/","noteIcon":""}
 ---
 
 # 그래프 (Graph)

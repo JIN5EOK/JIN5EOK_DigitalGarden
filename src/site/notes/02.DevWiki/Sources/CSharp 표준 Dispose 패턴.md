@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp 표준 Dispose 패턴/","noteIcon":"","created":"2025-05-23T01:32:08.072+09:00","updated":"2025-08-16T22:42:30.515+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp 표준 Dispose 패턴/","noteIcon":""}
 ---
 
 
@@ -7,7 +7,7 @@
 > [https://learn.microsoft.com/ko-kr/dotnet/standard/design-guidelines/dispose-pattern#basic-dispose-pattern](https://learn.microsoft.com/ko-kr/dotnet/standard/design-guidelines/dispose-pattern#basic-dispose-pattern)
 
 
-```bash
+```csharp
 public class DisposableResourceHolder : IDisposable {
 
     private SafeHandle resource; // handle to a resource

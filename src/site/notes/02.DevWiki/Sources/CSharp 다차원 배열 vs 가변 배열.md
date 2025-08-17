@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp 다차원 배열 vs 가변 배열/","noteIcon":"","created":"2025-07-26T16:26:13.000+09:00","updated":"2025-07-31T10:51:29.240+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp 다차원 배열 vs 가변 배열/","noteIcon":""}
 ---
 
 

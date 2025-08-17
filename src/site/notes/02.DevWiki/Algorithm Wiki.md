@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Algorithm Wiki/","noteIcon":"","created":"2025-06-07T03:14:38.670+09:00","updated":"2025-08-16T22:58:31.489+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Algorithm Wiki/","noteIcon":""}
 ---
 
 ### 이론 & 방법론

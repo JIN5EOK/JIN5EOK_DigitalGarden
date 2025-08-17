@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/VContainer - LifeTimeScope/","noteIcon":"","created":"2025-05-23T02:08:59.827+09:00","updated":"2025-07-19T22:58:36.981+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/VContainer - LifeTimeScope/","noteIcon":""}
 ---
 
 # LifeTimeScope

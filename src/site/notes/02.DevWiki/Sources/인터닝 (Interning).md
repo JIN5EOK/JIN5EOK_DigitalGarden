@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/인터닝 (Interning)/","noteIcon":"","created":"2024-10-24T11:11:42.000+09:00","updated":"2025-08-16T15:24:33.265+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/인터닝 (Interning)/","noteIcon":""}
 ---
 
 ### 인터닝이란?

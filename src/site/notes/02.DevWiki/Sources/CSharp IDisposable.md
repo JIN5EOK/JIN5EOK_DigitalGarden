@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp IDisposable/","noteIcon":"","created":"2024-10-13T23:54:47.000+09:00","updated":"2025-08-16T22:52:55.123+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp IDisposable/","noteIcon":""}
 ---
 
 # IDisposable
@@ -31,4 +31,4 @@
 ---
 ### 관련 문서
 [[02.DevWiki/Sources/CSharp 표준 Dispose 패턴\|CSharp 표준 Dispose 패턴]]
-[[02.DevWiki/Sources/CSharp IDisposable이 반드시 구현해야하는 것\|CSharp IDisposable이 반드시 구현해야하는 것]]
+[[CSharp IDisposable이 반드시 구현해야하는 것\|CSharp IDisposable이 반드시 구현해야하는 것]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp 델리게이트 이벤트 실행과 멀티스레드/","noteIcon":"","created":"2024-10-06T14:29:04.000+09:00","updated":"2025-08-05T22:19:25.126+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp 델리게이트 이벤트 실행과 멀티스레드/","noteIcon":""}
 ---
 
 ### if문 Null 체크 : 가장 기본적인 방법, 하지만 멀티스레드 환경에선..

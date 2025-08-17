@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp string의 특성과 사용시 주의사항/","noteIcon":"","created":"2024-10-24T10:59:36.000+09:00","updated":"2025-08-16T15:25:30.775+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp string의 특성과 사용시 주의사항/","noteIcon":""}
 ---
 
 # CSharp string의 특성과 사용시 주의사항

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/False Sharing (거짓 공유)/","noteIcon":"","created":"2025-07-13T01:48:14.437+09:00","updated":"2025-07-19T22:58:36.970+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/False Sharing (거짓 공유)/","noteIcon":""}
 ---
 
 ### 개요

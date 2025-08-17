@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Unity Wiki/","noteIcon":"","created":"2024-12-21T17:25:10.000+09:00","updated":"2025-08-17T15:37:02.400+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Unity Wiki/","noteIcon":""}
 ---
 
 ### 코어 영역

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp 콜백함수 델리게이트 vs 인터페이스/","noteIcon":"","created":"2024-10-01T11:40:41.000+09:00","updated":"2025-07-19T22:58:36.959+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp 콜백함수 델리게이트 vs 인터페이스/","noteIcon":""}
 ---
 
 ## 델리게이트
