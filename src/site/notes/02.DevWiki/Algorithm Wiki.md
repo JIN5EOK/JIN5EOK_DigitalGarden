@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Algorithm Wiki/","noteIcon":"","created":"2025-06-07T03:14:38.670+09:00","updated":"2025-08-16T14:57:28.948+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Algorithm Wiki/","noteIcon":"","created":"2025-06-07T03:14:38.670+09:00","updated":"2025-08-16T22:58:31.489+09:00"}
 ---
 
 ### 이론 & 방법론
@@ -9,6 +9,7 @@
 [[02.DevWiki/Sources/그리디 알고리즘 (Greedy Algorithm)\|그리디 알고리즘 (Greedy Algorithm)]]
 [[02.DevWiki/Sources/그리디 알고리즘과 동적 계획법의 차이\|그리디 알고리즘과 동적 계획법의 차이]]
 [[02.DevWiki/Sources/브루트포스 (Brute-force)\|브루트포스 (Brute-force)]]
+
 ### 알고리즘
 [[02.DevWiki/Sources/에이스타 알고리즘 (A-Star Algorithm)\|에이스타 알고리즘 (A-Star Algorithm)]]
 [[02.DevWiki/Sources/휴리스틱 알고리즘(Heuristic Algorithm)\|휴리스틱 알고리즘(Heuristic Algorithm)]]

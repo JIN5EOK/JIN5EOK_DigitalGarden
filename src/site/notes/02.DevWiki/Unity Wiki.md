@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Unity Wiki/","noteIcon":"","created":"2024-12-21T17:25:10.000+09:00","updated":"2025-08-09T14:28:10.712+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Unity Wiki/","noteIcon":"","created":"2024-12-21T17:25:10.000+09:00","updated":"2025-08-16T23:00:39.874+09:00"}
 ---
 
 ### 코어 영역
@@ -7,7 +7,7 @@
 [[02.DevWiki/Sources/유니티 관리되는 메모리\|유니티 관리되는 메모리]]
 [[02.DevWiki/Sources/유니티 스크립팅 영역, 코어 영역\|유니티 스크립팅 영역, 코어 영역]]
 [[02.DevWiki/Sources/유니티 IL2CPP 컴파일 시 유의사항\|유니티 IL2CPP 컴파일 시 유의사항]]
-[[02.DevWiki/Sources/유니티 스크립팅 백엔드 Mono, IL2CPP\|유니티 스크립팅 백엔드 Mono, IL2CPP]]
+[[02.DevWiki/Sources/유니티 Mono vs IL2CPP\|유니티 Mono vs IL2CPP]]
 [[02.DevWiki/Sources/DotNet GC vs Unity GC\|DotNet GC vs Unity GC]]
 [[02.DevWiki/Sources/Unity Garbage Collection (유니티 가비지컬렉션)\|Unity Garbage Collection (유니티 가비지컬렉션)]]
 [[02.DevWiki/Sources/유니티 드로우콜과 배치\|유니티 드로우콜과 배치]]

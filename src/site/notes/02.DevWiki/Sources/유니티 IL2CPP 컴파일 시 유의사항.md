@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/유니티 IL2CPP 컴파일 시 유의사항/","noteIcon":"","created":"2024-09-15T18:29:30.000+09:00","updated":"2025-07-19T22:58:36.985+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/유니티 IL2CPP 컴파일 시 유의사항/","noteIcon":"","created":"2024-09-15T18:29:30.000+09:00","updated":"2025-08-16T23:00:39.868+09:00"}
 ---
 
 ### Reflection 방식 제한
@@ -11,4 +11,4 @@
 * **link.xml**을 사용하면 명시적으로 제거 방지 가능
 
 ---
-[[02.DevWiki/Sources/유니티 스크립팅 백엔드 Mono, IL2CPP\|유니티 스크립팅 백엔드 Mono, IL2CPP]]
+[[02.DevWiki/Sources/유니티 Mono vs IL2CPP\|유니티 Mono vs IL2CPP]]

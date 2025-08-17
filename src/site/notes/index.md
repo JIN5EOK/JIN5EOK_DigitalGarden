@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"],"noteIcon":"","created":"2025-07-19T17:50:27.279+09:00","updated":"2025-08-16T22:53:49.324+09:00"}
+{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"],"noteIcon":"","created":"2025-07-19T17:50:27.279+09:00","updated":"2025-08-16T22:54:48.259+09:00"}
 ---
 
 # 🪴JIN5EOK's Digital Garden
@@ -20,4 +20,3 @@
 [[02.DevWiki/CSharp Wiki\|CSharp Wiki]]
 [[02.DevWiki/Data Structure Wiki\|Data Structure Wiki]]
 [[02.DevWiki/Algorithm Wiki\|Algorithm Wiki]]
-
