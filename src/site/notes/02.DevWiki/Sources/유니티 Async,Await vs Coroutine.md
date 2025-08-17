@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/유니티 Async,Await vs Coroutine/","noteIcon":"","created":"2025-08-16T23:41:53.296+09:00","updated":"2025-08-17T15:35:53.438+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/유니티 Async,Await vs Coroutine/","noteIcon":"","created":"2025-08-16T23:41:53.296+09:00","updated":"2025-08-17T15:42:14.940+09:00"}
 ---
 
 
@@ -28,7 +28,7 @@
 
 - **코루틴**
 	- **간단한 시간 지연**이나 **유니티 API를 사용하는 간단한 비동기 로직**에 제한적으로 사용
-- **Async/Await
+- **Async/Await**
 	- **복잡한 비동기 로직**, **값 반환**, **예외 처리**가 중요한 경우, 혹은 그 외!
 	- **MainThreadDispatcher**, **UniTask**나 **Awaitable**등을 이용하면 Async/Await을 사용하면서도 유니티 API 사용 제약을 덜 수 있음
 
