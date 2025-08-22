@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp 델리게이트/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp 델리게이트/","noteIcon":"","created":"2024-10-06T14:30:40.000+09:00","updated":"2025-08-16T15:35:50.000+09:00"}
 ---
 
 # CSharp 델리게이트

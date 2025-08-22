@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/B트리와 B+트리/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/B트리와 B+트리/","noteIcon":"","created":"2025-06-10T13:17:17.000+09:00","updated":"2025-07-20T02:19:17.000+09:00"}
 ---
 
 > 데이터베이스 및 파일 시스템에서 **대용량 데이터를 효율적 저장/검색** 하기 위해 사용되는 **균형 잡힌 트리구조**

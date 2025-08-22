@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/유니티 의존성 주입 - VContainer , Zenject, Extenject/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/유니티 의존성 주입 - VContainer , Zenject, Extenject/","noteIcon":"","created":"2025-05-23T02:09:39.000+09:00","updated":"2025-07-19T22:58:36.000+09:00"}
 ---
 
 # 의존성 주입이란..
