@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/유니티 어드레서블(Addressable)/","noteIcon":"","created":"2024-12-21T17:25:10.000+09:00","updated":"2025-07-19T22:58:36.000+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/유니티 어드레서블(Addressable)/","noteIcon":"","created":"2024-12-21T17:25:10.000+09:00","updated":"2025-08-22T15:33:19.312+09:00"}
 ---
 
 > Unity에서 제공하는 **에셋 번들 관리** 시스템
@@ -12,4 +12,4 @@
 ### 관련 문서
 [[02.DevWiki/Sources/유니티 어드레서블 사용시 주의해야할 부분들\|유니티 어드레서블 사용시 주의해야할 부분들]]
 [[02.DevWiki/Sources/유니티 어드레서블 에셋 번들과 관리 전략\|유니티 어드레서블 에셋 번들과 관리 전략]]
-[[02.DevWiki/Sources/유니티 Resources vs Addressables 관리적 측면 비교\|유니티 Resources vs Addressables 관리적 측면 비교]]
+[[02.DevWiki/Sources/유니티 Resources vs Addressables 비교\|유니티 Resources vs Addressables 비교]]
