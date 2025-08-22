@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/Base64/","noteIcon":"","created":"2024-12-25T23:50:12.000+09:00","updated":"2025-07-19T22:58:36.000+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/Base64/","noteIcon":""}
 ---
 
 > 바이너리(이진) 데이터를 64자의 Ascii문자로 표현 단순 치환이므로 얼핏 보면 암호화 같지만 아니다

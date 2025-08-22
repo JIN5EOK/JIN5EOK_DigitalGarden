@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/유니티 어드레서블(Addressable)/","noteIcon":"","created":"2024-12-21T17:25:10.000+09:00","updated":"2025-08-22T15:33:19.312+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/유니티 어드레서블(Addressable)/","noteIcon":""}
 ---
 
 > Unity에서 제공하는 **에셋 번들 관리** 시스템

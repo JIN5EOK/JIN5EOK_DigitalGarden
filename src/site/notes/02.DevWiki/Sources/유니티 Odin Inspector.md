@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/유니티 Odin Inspector/","noteIcon":"","created":"2025-05-23T02:13:53.000+09:00","updated":"2025-07-19T22:58:36.000+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/유니티 Odin Inspector/","noteIcon":""}
 ---
 
 > 유니티 에디터 인스펙터의 기능 확장 및 사용자 편의 기능 추가

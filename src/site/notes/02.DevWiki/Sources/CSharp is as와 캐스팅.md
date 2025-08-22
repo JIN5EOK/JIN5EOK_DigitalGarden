@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp is as와 캐스팅/","noteIcon":"","created":"2024-10-03T17:18:16.000+09:00","updated":"2025-08-17T15:59:24.000+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp is as와 캐스팅/","noteIcon":""}
 ---
 
 ## is

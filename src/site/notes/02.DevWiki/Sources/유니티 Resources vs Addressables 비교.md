@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/유니티 Resources vs Addressables 비교/","noteIcon":"","created":"2024-09-21T14:28:36.000+09:00","updated":"2025-07-19T22:58:36.000+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/유니티 Resources vs Addressables 비교/","noteIcon":""}
 ---
 
 ## 둘은 메모리 해제 조건이 제법 다르다

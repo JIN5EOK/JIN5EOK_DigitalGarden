@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/CS Wiki/","noteIcon":"","created":"2024-12-21T18:04:35.000+09:00","updated":"2025-08-17T16:22:53.000+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/CS Wiki/","noteIcon":""}
 ---
 
 ### 일반

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Math Wiki/","noteIcon":"","created":"2025-08-17T16:22:44.000+09:00","updated":"2025-08-17T16:23:10.000+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Math Wiki/","noteIcon":""}
 ---
 
 ### 기하
