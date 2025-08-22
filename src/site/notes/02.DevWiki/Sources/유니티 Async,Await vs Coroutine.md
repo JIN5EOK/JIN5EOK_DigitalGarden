@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/유니티 Async,Await vs Coroutine/","noteIcon":"","created":"2025-08-16T23:41:53.000+09:00","updated":"2025-08-17T15:42:14.000+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/유니티 Async,Await vs Coroutine/","noteIcon":"","updated":"2025-08-17T15:42:14.000+09:00"}
 ---
 
 

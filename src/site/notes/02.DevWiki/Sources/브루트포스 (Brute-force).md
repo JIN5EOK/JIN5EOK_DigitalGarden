@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/브루트포스 (Brute-force)/","noteIcon":"","created":"2025-08-05T10:18:05.000+09:00","updated":"2025-08-12T10:27:35.000+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/브루트포스 (Brute-force)/","noteIcon":"","updated":"2025-08-12T10:27:35.000+09:00"}
 ---
 
 # 브루트포스 (Brute-force)

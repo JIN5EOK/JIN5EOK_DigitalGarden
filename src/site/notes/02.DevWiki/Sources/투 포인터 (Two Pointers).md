@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/투 포인터 (Two Pointers)/","noteIcon":"","created":"2025-08-18T20:52:42.000+09:00","updated":"2025-08-20T22:38:05.000+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/투 포인터 (Two Pointers)/","noteIcon":"","updated":"2025-08-20T22:38:05.000+09:00"}
 ---
 
 # 투 포인터 (Two Pointers)

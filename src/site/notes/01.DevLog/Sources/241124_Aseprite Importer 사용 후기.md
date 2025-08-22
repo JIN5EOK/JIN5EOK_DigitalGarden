@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01.DevLog/Sources/241124_Aseprite Importer 사용 후기/","noteIcon":"","created":"2025-05-23T02:19:34.000+09:00","updated":"2025-07-20T02:49:56.000+09:00"}
+{"dg-publish":true,"permalink":"/01.DevLog/Sources/241124_Aseprite Importer 사용 후기/","noteIcon":"","updated":"2025-07-20T02:49:56.000+09:00"}
 ---
 
 > Aseprite Importer : Aseprite파일을 임포트, 에셋처럼 사용하도록 해주는 플러그인

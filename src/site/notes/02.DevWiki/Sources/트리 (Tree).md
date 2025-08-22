@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/트리 (Tree)/","noteIcon":"","created":"2025-08-06T00:00:42.000+09:00","updated":"2025-08-06T10:20:29.000+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/트리 (Tree)/","noteIcon":"","updated":"2025-08-06T10:20:29.000+09:00"}
 ---
 
 # 트리 (Tree)

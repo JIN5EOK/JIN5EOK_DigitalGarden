@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp IEnumerable과 IEnumerator는 왜 나누어져 있을까/","noteIcon":"","created":"2024-10-01T11:39:43.000+09:00","updated":"2025-08-17T14:48:25.000+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp IEnumerable과 IEnumerator는 왜 나누어져 있을까/","noteIcon":"","updated":"2025-08-17T14:48:25.000+09:00"}
 ---
 
 ## IEnumerable과 IEnumerator는 왜 나누어져 있을까?

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/BoilerPlate/","noteIcon":"","created":"2024-10-09T15:51:12.000+09:00","updated":"2025-08-05T11:36:23.000+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/BoilerPlate/","noteIcon":"","updated":"2025-08-05T11:36:23.000+09:00"}
 ---
 
 - 코드를 작성하기 위해 자주 사용하게되는 패턴화된 코드

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/MVC,MVP,MVVM/","noteIcon":"","created":"2024-09-17T17:48:14.000+09:00","updated":"2025-08-06T23:36:49.000+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/MVC,MVP,MVVM/","noteIcon":"","updated":"2025-08-06T23:36:49.000+09:00"}
 ---
 
 ## MVC (Model-View-Controller)

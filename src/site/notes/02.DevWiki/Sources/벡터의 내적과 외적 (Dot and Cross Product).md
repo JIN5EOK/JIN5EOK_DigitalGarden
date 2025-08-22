@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/벡터의 내적과 외적 (Dot and Cross Product)/","noteIcon":"","created":"2025-08-13T10:06:43.000+09:00","updated":"2025-08-17T16:22:03.000+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/벡터의 내적과 외적 (Dot and Cross Product)/","noteIcon":"","updated":"2025-08-17T16:22:03.000+09:00"}
 ---
 
 # 벡터의 내적과 외적 (Dot and Cross Product)
