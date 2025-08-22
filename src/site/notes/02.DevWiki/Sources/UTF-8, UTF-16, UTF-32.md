@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/UTF-8, UTF-16, UTF-32/","noteIcon":"","updated":"2025-07-19T22:58:36.000+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/UTF-8, UTF-16, UTF-32/","noteIcon":"","created":"2024-12-17T02:29:25.000+09:00","updated":"2025-07-19T22:58:36.000+09:00"}
 ---
 
 ## 개요

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/유니티에서의 Async,Await/","noteIcon":"","updated":"2025-08-17T15:20:22.000+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/유니티에서의 Async,Await/","noteIcon":"","created":"2025-08-17T15:11:10.000+09:00","updated":"2025-08-17T15:20:22.000+09:00"}
 ---
 
 

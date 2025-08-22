@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01.DevLog/Sources/241129_메인스레드에서만 실행 가능한 Mixpanel SDK 문제 해결하기/","noteIcon":"","updated":"2025-07-20T02:49:56.000+09:00"}
+{"dg-publish":true,"permalink":"/01.DevLog/Sources/241129_메인스레드에서만 실행 가능한 Mixpanel SDK 문제 해결하기/","noteIcon":"","created":"2024-11-29T21:03:48.000+09:00","updated":"2025-07-20T02:49:56.000+09:00"}
 ---
 
 # 개요

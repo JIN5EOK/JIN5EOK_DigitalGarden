@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/유니티 PlayableAPI/","noteIcon":"","updated":"2025-07-19T22:58:36.000+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/유니티 PlayableAPI/","noteIcon":"","created":"2025-06-01T17:56:36.000+09:00","updated":"2025-07-19T22:58:36.000+09:00"}
 ---
 
 

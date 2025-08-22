@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp record/","noteIcon":"","updated":"2025-08-17T16:02:44.000+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp record/","noteIcon":"","created":"2024-10-09T15:51:12.000+09:00","updated":"2025-08-17T16:02:44.000+09:00"}
 ---
 
 > 불변의 값 형태의 데이터 구조를 선언하는데 사용된다

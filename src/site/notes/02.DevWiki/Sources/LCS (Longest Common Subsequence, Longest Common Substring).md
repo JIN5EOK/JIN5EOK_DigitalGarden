@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/LCS (Longest Common Subsequence, Longest Common Substring)/","noteIcon":"","updated":"2025-08-18T21:03:13.000+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/LCS (Longest Common Subsequence, Longest Common Substring)/","noteIcon":"","created":"2025-06-07T03:45:15.000+09:00","updated":"2025-08-18T21:03:13.000+09:00"}
 ---
 
 ### Longest Common Subsequence (최장 공통 부분 수열)

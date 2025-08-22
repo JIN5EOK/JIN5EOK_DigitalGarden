@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/VContainer - Register/","noteIcon":"","updated":"2025-07-19T22:58:36.000+09:00"}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/VContainer - Register/","noteIcon":"","created":"2025-05-23T02:08:49.000+09:00","updated":"2025-07-19T22:58:36.000+09:00"}
 ---
 
 # `IContainerBuilder.Register`
