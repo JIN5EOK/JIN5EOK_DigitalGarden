@@ -22,7 +22,6 @@
 [[02.DevWiki/Sources/CSharp record\|CSharp record]]
 [[02.DevWiki/Sources/CSharp 다차원 배열 vs 가변 배열\|CSharp 다차원 배열 vs 가변 배열]]
 
-
 ### 멀티스레드
 [[02.DevWiki/Sources/CSharp 멀티스레드\|CSharp 멀티스레드]]
 
@@ -37,5 +36,4 @@
 [[02.DevWiki/Sources/CSharp 정적 멤버 초기화 구문 vs 정적 생성자\|CSharp 정적 멤버 초기화 구문 vs 정적 생성자]]
 [[02.DevWiki/Sources/CSharp 파생 메서드에는 가급적 virtual 키워드를 사용하자\|CSharp 파생 메서드에는 가급적 virtual 키워드를 사용하자]]
 [[02.DevWiki/Sources/CSharp 포매팅 vs 문자열 보간\|CSharp 포매팅 vs 문자열 보간]]
-
 [[02.DevWiki/Sources/CSharp 타입 이름이 필요할 땐 nameof를 사용하자\|CSharp 타입 이름이 필요할 땐 nameof를 사용하자]]
