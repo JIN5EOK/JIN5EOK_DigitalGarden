@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/02.DevWiki/Sources/단위원 (Unit Circle)/","noteIcon":""}
 ---
 
-# 단위원 (Unit Circle)
-
 > **반지름이 1**이고 **중심이 원점(0, 0)** 인 원
 > **반지름의 크기가 1**로 고정되어 있어 **각도,방향 관련 연산**에 사용하기 아주 유용하다
 

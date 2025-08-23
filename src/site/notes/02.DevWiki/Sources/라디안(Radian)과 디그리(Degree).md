@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/02.DevWiki/Sources/라디안(Radian)과 디그리(Degree)/","noteIcon":""}
 ---
 
-## 라디안(Radian)과 디그리(Degree)
-
 -   **디그리 (Degree)**
 	- `°` 로 표기
 	- 원을 0° ~ 360° 단위로 표현할 수 있음.

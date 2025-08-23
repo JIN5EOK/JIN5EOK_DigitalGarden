@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/02.DevWiki/Sources/벡터의 내적과 외적 (Dot and Cross Product)/","noteIcon":""}
 ---
 
-# 벡터의 내적과 외적 (Dot and Cross Product)
-
 ## 내적 (Dot Product)
 > 두 벡터의 **방향 관계**를 **스칼라(Scalar) 값**으로 나타내는 연산. **스칼라 곱(Scalar Product)** 이라고도 한다.
 > **내적의 결과값과 부호**를 통해 두 벡터의 **방향관계**를 알 수 있다
