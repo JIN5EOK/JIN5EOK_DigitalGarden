@@ -11,7 +11,7 @@
 ## 각도 -> 좌표!
 
 * **단위원 위의 한 점 `P(x, y)`** 가 있을 때
-* **원점(0, 0)** 과 **이 점을 잇는 선**과 **x축이 이루는 각도**를 **θ** (세타, [[라디안(Radian)과 디그리(Degree)\|라디안]])라고 하면
+* **원점(0, 0)** 과 **이 점을 잇는 선**과 **x축이 이루는 각도**를 **θ** (세타, [[02.DevWiki/Sources/라디안(Radian)과 디그리(Degree)\|라디안]])라고 하면
 * 점의 좌표는 [[02.DevWiki/Sources/삼각함수 (Trigonometric Functions)\|삼각함수 (Trigonometric Functions)]]를 통해 다음과 같이 정의된다.
 
 -   **`x = cos(θ)`**
@@ -24,4 +24,4 @@
 
 ---
 ### 관련 문서
-[[라디안(Radian)과 디그리(Degree)\|라디안(Radian)과 디그리(Degree)]]
+[[02.DevWiki/Sources/라디안(Radian)과 디그리(Degree)\|라디안(Radian)과 디그리(Degree)]]
