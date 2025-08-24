@@ -3,7 +3,7 @@
 ---
 
 
-![우선순위 큐.png](/img/user/02.DevWiki/Files/%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%20%ED%81%90.png)
+![우선순위 큐.png](/img/user/02.DevWiki/Sources/Files/%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%20%ED%81%90.png)
 
 > 각 요소가 **우선순위**를 가지고 있으며, **우선순위가 높은 요소가 먼저 나오는 자료구조**. 일반적인 **큐(Queue)가 FIFO(First-In, First-Out)** 정책을 따르는 것과 달리, **우선순위 큐**는 **우선순위가 가장 높은 요소**가 항상 먼저 처리된다.
 

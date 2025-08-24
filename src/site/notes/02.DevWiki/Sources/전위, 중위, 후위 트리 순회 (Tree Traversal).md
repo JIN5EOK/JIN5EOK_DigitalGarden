@@ -24,7 +24,7 @@
 > **Root -> left -> Right**
 > **루트 → 왼쪽 서브트리 → 오른쪽 서브트리** 순서로 노드를 방문한다.
 
-![Preorder-traversal.gif](/img/user/02.DevWiki/Files/Preorder-traversal.gif)
+![Preorder-traversal.gif](/img/user/02.DevWiki/Sources/Files/Preorder-traversal.gif)
 
 - **특징**
 	- 통상적인 [[02.DevWiki/Sources/DFS (깊이 우선 탐색, Depth-First Search)\|DFS (깊이 우선 탐색, Depth-First Search)]] 과 별반 다를 바 없음
@@ -36,7 +36,7 @@
 > **Left -> Root -> Right**
 > **왼쪽 서브트리 → 루트 → 오른쪽 서브트리** 순서로 노드를 방문한다.
 
-![Inorder-traversal.gif](/img/user/02.DevWiki/Files/Inorder-traversal.gif)
+![Inorder-traversal.gif](/img/user/02.DevWiki/Sources/Files/Inorder-traversal.gif)
 
 * **기본적인 동작 방식**
 	* **모든 노드를 방문할 때 까지** 좌측 자식 우선 **깊이 우선 탐색**을 진행한다,단 방문처리는 하지 않는다
@@ -53,7 +53,7 @@
 > **Left -> RIght -> Root**
 > **왼쪽 서브트리 → 오른쪽 서브트리 → 루트** 순서로 노드를 방문한다.
 
-![Postorder-traversal.gif](/img/user/02.DevWiki/Files/Postorder-traversal.gif)
+![Postorder-traversal.gif](/img/user/02.DevWiki/Sources/Files/Postorder-traversal.gif)
 
 * **기본적인 동작 방식**
 	* **모든 노드를 방문할 때 까지** 좌측 자식 우선 **깊이 우선 탐색**을 진행한다, 단 방문처리는 하지 않는다

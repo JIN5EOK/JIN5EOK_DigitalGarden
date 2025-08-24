@@ -25,4 +25,7 @@
 * **리프노드간 연결** 존재
 	* **순차접근** 성능이 **우수**함
 
-
+---
+### 관련 문서
+[[02.DevWiki/Sources/트리 (Tree)\|트리 (Tree)]]
+[[02.DevWiki/Sources/M원 탐색 트리 (M-way Search Tree)\|M원 탐색 트리 (M-way Search Tree)]]
