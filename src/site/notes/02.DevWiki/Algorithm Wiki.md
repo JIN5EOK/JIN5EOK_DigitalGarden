@@ -11,7 +11,7 @@
 [[02.DevWiki/Sources/브루트포스 (Brute-force)\|브루트포스 (Brute-force)]]
 
 ### 알고리즘
-[[02.DevWiki/전위, 중위, 후위 트리 순회 (Tree Traversal)\|전위, 중위, 후위 트리 순회 (Tree Traversal)]]
+[[02.DevWiki/Sources/전위, 중위, 후위 트리 순회 (Tree Traversal)\|전위, 중위, 후위 트리 순회 (Tree Traversal)]]
 [[02.DevWiki/Sources/에이스타 알고리즘 (A-Star Algorithm)\|에이스타 알고리즘 (A-Star Algorithm)]]
 [[02.DevWiki/Sources/휴리스틱 알고리즘(Heuristic Algorithm)\|휴리스틱 알고리즘(Heuristic Algorithm)]]
 [[02.DevWiki/Sources/LCS (Longest Common Subsequence, Longest Common Substring)\|LCS (Longest Common Subsequence, Longest Common Substring)]]
