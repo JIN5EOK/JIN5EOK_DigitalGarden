@@ -3,6 +3,9 @@
 ---
 
 ### .NET GC vs Unity GC
+* **수거영역**
+	* **.NET** : **class**등 일반적인 참조 객체
+	* **Unity** : **Texture, GameObject**등 유니티 에셋
 * **세대구분**
 	* **.NET** : **0~2세대** 구분
 	* **Unity** : **없음🥲**
