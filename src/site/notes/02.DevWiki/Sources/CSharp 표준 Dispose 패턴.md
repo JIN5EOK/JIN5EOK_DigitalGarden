@@ -16,20 +16,28 @@ public class DisposableResourceHolder : IDisposable {
         this.resource = ... // allocates the resource
     }
 
+		// 소멸자, 최후의 방어선 느낌
+   ~DisposableResourceHolder() {
+	   Dispose(false);
+   }
+
+		// 비관리, 괸리 리소스를 모두 해제하고 GC에게 수거 대상이 아님을 알림
     public void Dispose() {
         Dispose(true);
         GC.SuppressFinalize(this);
     }
 
+		// protected라 사용자는 호출 불가
     protected virtual void Dispose(bool disposing) {
         if (disposing) {
-            if (resource!= null) resource.Dispose();
+            if (resource!= null) resource?.Dispose();
         }
     }
 }
 ```
 
 > 핵심 요지는 IDisposable 인터페이스를 구현하면서 추가로 `protected void Dispose(bool disposing)` 함수를 구현하는 것이다.
+> public 함수와 파라미터가 추가되는 것이 아니므로 사용자 입장에서는 알 수 없는 변화이다.
 ### bool disposing이 뭘까?
 * **True**
 	* 관리되는 리소스,관리되지 않는  **리소스 모두 해제**
@@ -43,8 +51,11 @@ public class DisposableResourceHolder : IDisposable {
 * 🤔 **왜 bool을 파라미터로 가지는 Dispose가 필요할까?**
 	- **IDisposable** 자체는 **Dispose()** 함수밖에 제공해주지 않는데 왜?
 	- **이유**
-	    - GC의 메모리 수집은 순서가 보장되지 않으므로 상황에 따라 소멸자에서 참조하는 대상을 이미 GC가 수거해버린 상태일수도 있다, 따라서 소멸자가 **관리 메모리 영역**을 다뤄버리면 **예상할 수 없는 문제**가 발생할 수 있다
-	    - 반면 **비관리 메모리 영역은 GC가 다루지 않는 영역**이라 위와 같은 문제가 발생하지 않는다, 그렇기 때문에 소멸자에서 호출하는 **Dispose는 비관리 메모리만 해제**하도록 하는 것이다
+		- Dispose를 놓쳤을때를 대비해 최후의 방어선 느낌으로 **소멸자에서 Dispose**를 호출하도록 만들어 둘 때
+		    - GC의 메모리 수집은 **순서와 타이밍이 보장**되지 않는다
+			- 따라서 소멸자가 **관리 메모리 영역**을 다뤄버리면 **예상할 수 없는 문제**가 발생할 수 있다
+			    - 예를들면 상황에 따라 **소멸자에서 참조하는 대상**을 **이미 GC가 수거**해버린 상태일수도 있다
+		    - 반면 **비관리 메모리 영역은 GC가 다루지 않는 영역**이라 위와 같은 문제가 발생하지 않는다, 그렇기 때문에 소멸자에서 호출하는 **Dispose는 비관리 메모리만 해제**하도록 하는 것이다
 - **추가로**
     - Finalizer를 구현하면 가비지 컬렉터에 부하를 줄 수 있으니 메모리 누수에 대한 방어가 꼭 필요한 상황에만 최후의 방어선 느낌으로 사용해야 한다
     - 모든 상황에 표준 Dispose 패턴을 구현할 필요는 없다, **Dispose시 비관리 메모리와 관리 메모리를 구분해서 해제해줄 필요가 있을 때 사용하자**
