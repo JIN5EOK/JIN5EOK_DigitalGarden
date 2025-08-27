@@ -16,5 +16,6 @@
 	* 🐓 2세대 👴
 		* GC수집 사이클 **100회당 한번** 검사
 
-
+---
+### 관련 문서
 [[02.DevWiki/Sources/DotNet Garbage Collection (닷넷 가비지컬렉션)\|DotNet Garbage Collection (닷넷 가비지컬렉션)]]

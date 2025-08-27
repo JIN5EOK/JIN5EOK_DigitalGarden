@@ -24,4 +24,6 @@
 		* **IDisposable**을 구현해 **원할 때 해제**
 		* **소멸자**를 구현해 **자동으로 해제**
 
+---
+### 관련 문서
 [[02.DevWiki/Sources/DotNet Garbage Collection (닷넷 가비지컬렉션)\|DotNet Garbage Collection (닷넷 가비지컬렉션)]]
