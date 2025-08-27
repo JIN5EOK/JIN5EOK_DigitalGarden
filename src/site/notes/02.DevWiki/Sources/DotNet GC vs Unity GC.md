@@ -4,8 +4,8 @@
 
 ### .NET GC vs Unity GC
 * **수거영역**
-	* **.NET** : **class**등 일반적인 참조 객체
-	* **Unity** : **Texture, GameObject**등 유니티 에셋
+	* **.NET** : **class, string, 델리게이트, 컬렉션**등.. 일반적인 C#의 참조 객체
+	* **Unity** : **Texture, GameObject**등 유니티 오브젝트나 에셋에 대한 **참조** (실제 객체는 C++ 네이티브 영역에서 담당하고 경우에 따라 Destroy나 Dispose등으로 수동 해제가 필요함)
 * **세대구분**
 	* **.NET** : **0~2세대** 구분
 	* **Unity** : **없음🥲**
