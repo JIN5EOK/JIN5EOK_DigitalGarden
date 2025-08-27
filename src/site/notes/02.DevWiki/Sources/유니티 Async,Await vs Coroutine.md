@@ -18,7 +18,7 @@
 	* **유니티엔진과의 동기화?**
 		* **MainThreadDispatcher**, **UniTask**나 **Awaitable**등 해결 방법들이 존재함
 
-* 하지만..
+* **하지만..!**
 	* **Awaitable은 2023.1버전** 부터 지원되어 아직 사용하지 못하는 버전들이 많고
 	* **UniTask는 서드파티 플러그인**이라 모든 프로젝트에 사용됨을 보장할 수 없고
 	* **MainTrheadDispatcher**는 사용자가 구현해야 하는 기능임
