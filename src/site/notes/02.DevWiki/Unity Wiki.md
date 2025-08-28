@@ -32,7 +32,7 @@
 [[02.DevWiki/Sources/UnityEngine.Object\|UnityEngine.Object]]
 [[02.DevWiki/Sources/유니티 직렬화와 일반적인 의미의 직렬화의 차이\|유니티 직렬화와 일반적인 의미의 직렬화의 차이]]
 [[02.DevWiki/Sources/유니티에서의 메인스레드와 멀티스레딩\|유니티에서의 메인스레드와 멀티스레딩]]
-[[02.DevWiki/Sources/유니티 코루틴\|유니티 코루틴]]
+[[02.DevWiki/Sources/유니티 코루틴의 장단점과 구현방식\|유니티 코루틴의 장단점과 구현방식]]
 [[02.DevWiki/Sources/유니티에서의 Async,Await\|유니티에서의 Async,Await]]
 [[02.DevWiki/Sources/유니티 Async,Await vs Coroutine\|유니티 Async,Await vs Coroutine]]
 [[02.DevWiki/Sources/유니티 애니메이터 StateMachineBehaviour\|유니티 애니메이터 StateMachineBehaviour]]
