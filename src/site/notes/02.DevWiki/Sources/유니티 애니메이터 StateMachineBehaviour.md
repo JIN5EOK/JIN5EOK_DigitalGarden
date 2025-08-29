@@ -21,4 +21,5 @@
         - **서브 상태머신에 진입**할 때
     - **OnStateMachineExit**
         - **서브 상태머신에서 나올 때**
-- OnStateEnter, OnStateMachineEnter는 사실상 발동조건이 유사하지만 Behaviour 스크립트가 클립에 붙어있을 땐 OnStateEnter, 서브 상태머신에 붙어있을 경우 OnStateMachineEnter가 실행된다는 차이가 있음
+
+> OnStateEnter, OnStateMachineEnter는 사실상 발동조건이 유사하지만 Behaviour 스크립트가 클립에 붙어있을 땐 OnStateEnter, 서브 상태머신에 붙어있을 경우 OnStateMachineEnter가 실행된다는 차이가 있음
