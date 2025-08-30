@@ -4,7 +4,7 @@
 
 # 힙 (Heap)
 
-![Pasted image 20250830211153.png](/img/user/02.DevWiki/Sources/Files/Pasted%20image%2020250830211153.png)
+![힙.png](/img/user/02.DevWiki/Sources/Files/%ED%9E%99.png)
 
 > 힙은 **완전 이진 트리(Complete Binary Tree)** 에 기반한 자료구조로, **최댓값이나 최솟값**을 빠르게 찾아내기 위해 설계되었다. [[02.DevWiki/Sources/우선순위 큐 (Priority Queue)\|우선순위 큐 (Priority Queue)]]를 구현하는 데 가장 효율적인 자료구조이다.
 
