@@ -20,6 +20,4 @@
 			* 빠른 해시값 계산속도 (공격자 입장에서 유리함)
 			* 충돌 발생 가능성
 			* 이러한 영역에는 SHA-256 알고리즘을 사용하는것이 적합함
----
-### 관련문서
-[[02.DevWiki/Sources/SHA (Secure Hash Algorithm)\|SHA (Secure Hash Algorithm)]]
+    			* [[02.DevWiki/Sources/SHA (Secure Hash Algorithm)\|SHA (Secure Hash Algorithm)]] 참고

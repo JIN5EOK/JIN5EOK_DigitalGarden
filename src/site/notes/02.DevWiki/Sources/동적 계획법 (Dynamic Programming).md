@@ -5,8 +5,10 @@
 
 > 큰 문제를 작은 문제로 쪼개어 해결하는 기법
 
-- 큰 문제를 작은 문제로 쪼갠다
-- 한번 연산한 작은 문제의 답을 저장(메모이제이션), 중복 계산하지 않는다
+- **큰 문제를 작은 문제로 쪼갠다**
+- 한번 연산한 작은 문제의 **답을 저장(메모이제이션)** 하여 중복 계산하지 않는다
+- **동적 계획법에서 메모제이션을 뺀** (이전 문제의 정담을 저장하지 않는) 방식의 알고리즘으로 **그리디 알고리즘**이 존재한다
+    * [[02.DevWiki/Sources/그리디 알고리즘 (Greedy Algorithm)\|그리디 알고리즘 (Greedy Algorithm)]] / [[02.DevWiki/Sources/그리디 알고리즘과 동적 계획법의 차이\|그리디 알고리즘과 동적 계획법의 차이]] 참고
 
 ### 특징
 - **최적 부분 구조 (Optimal Substructure)**
@@ -25,8 +27,6 @@
 
 > 메모제이션은 재귀 호출로 인해 성능이 저하되는 부분이 있어 타뷸레이션이 성능적으로 우수한 경우가 많다
 
----
-### 관련 문서
-[[02.DevWiki/Sources/LCS (Longest Common Subsequence, Longest Common Substring)\|LCS (Longest Common Subsequence, Longest Common Substring)]]
-[[02.DevWiki/Sources/그리디 알고리즘 (Greedy Algorithm)\|그리디 알고리즘 (Greedy Algorithm)]]
-[[02.DevWiki/Sources/그리디 알고리즘과 동적 계획법의 차이\|그리디 알고리즘과 동적 계획법의 차이]]
+### 기타
+* 동적 계획법으로 구하면 좋은 알고리즘으로 최장 공통부분 수열, 최장 연속수열이 있다 
+    * [[02.DevWiki/Sources/LCS (Longest Common Subsequence, Longest Common Substring)\|LCS (Longest Common Subsequence, Longest Common Substring)]]  참고

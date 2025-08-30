@@ -4,6 +4,8 @@
 
 # 힙 (Heap)
 
+![Pasted image 20250830211153.png](/img/user/02.DevWiki/Sources/Files/Pasted%20image%2020250830211153.png)
+
 > 힙은 **완전 이진 트리(Complete Binary Tree)** 에 기반한 자료구조로, **최댓값이나 최솟값**을 빠르게 찾아내기 위해 설계되었다. [[02.DevWiki/Sources/우선순위 큐 (Priority Queue)\|우선순위 큐 (Priority Queue)]]를 구현하는 데 가장 효율적인 자료구조이다.
 
 ## 특징
@@ -51,17 +53,11 @@
 
 ## 사용처
 
--   **[[02.DevWiki/Sources/우선순위 큐 (Priority Queue)\|우선순위 큐 (Priority Queue)]]**
+- **우선순위 큐**
 	- 삽입과 삭제가 O(log n)으로 효율적이라 우선순위 큐 구현에 가장 적합하다.
+	- [[02.DevWiki/Sources/우선순위 큐 (Priority Queue)\|우선순위 큐 (Priority Queue)]] 참고
 -   **힙 정렬 (Heap Sort)** 
 	- 배열을 힙으로 만든 뒤, 루트 노드를 하나씩 꺼내어 정렬하는 알고리즘.
-	- [[02.DevWiki/Sources/주요 정렬 알고리즘의 시간복잡도\|주요 정렬 알고리즘의 시간복잡도]]
+	- [[02.DevWiki/Sources/주요 정렬 알고리즘의 시간복잡도\|주요 정렬 알고리즘의 시간복잡도]] 참고
 -   **K번째 최댓값/최솟값 찾기**
 	- 크기가 K인 힙을 유지하면서 문제를 해결할 수 있다.
-
----
-
-### 관련 문서
-[[02.DevWiki/Sources/트리 (Tree)\|트리 (Tree)]]
-[[02.DevWiki/Sources/우선순위 큐 (Priority Queue)\|우선순위 큐 (Priority Queue)]]
-[[02.DevWiki/Sources/주요 정렬 알고리즘의 시간복잡도\|주요 정렬 알고리즘의 시간복잡도]]

@@ -6,6 +6,7 @@
 > Dispose 패턴은 _**종료자 및 IDisposable 인터페이스의 사용 및 구현을 표준화하기 위한 것**
 > [https://learn.microsoft.com/ko-kr/dotnet/standard/design-guidelines/dispose-pattern#basic-dispose-pattern](https://learn.microsoft.com/ko-kr/dotnet/standard/design-guidelines/dispose-pattern#basic-dispose-pattern)
 
+* IDisposable 인터페이스에 대해선 [[02.DevWiki/Sources/CSharp IDisposable\|CSharp IDisposable]] 참고
 
 ```csharp
 public class DisposableResourceHolder : IDisposable {
@@ -59,7 +60,3 @@ public class DisposableResourceHolder : IDisposable {
 		    - 반면 **비관리 메모리 영역은 GC가 다루지 않는 영역**이라 위와 같은 문제가 발생하지 않는다, 그렇기 때문에 소멸자에서 호출하는 **Dispose는 비관리 메모리만 해제**하도록 조치하는 것이다.
 - **추가로**
     - 모든 상황에 **표준 Dispose 패턴**을 구현할 필요는 없다, **Dispose시 비관리 메모리와 관리 메모리를 구분해서 해제해줄 필요가 있을 때 사용하자**
-
----
-### 관련 문서
-[[02.DevWiki/Sources/CSharp IDisposable\|CSharp IDisposable]]

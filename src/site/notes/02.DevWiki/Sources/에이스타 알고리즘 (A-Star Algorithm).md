@@ -7,6 +7,7 @@
 ## 다익스트라 알고리즘과 차이
 ### 차이
 * 현재 노드에서 목표 노드로의 **최단거리 휴리스틱 추정값**을 사용해 탐색 우선순위를 정한다는 점이 다름
+    * 휴리스틱 알고리즘이란? [[02.DevWiki/Sources/휴리스틱 알고리즘(Heuristic Algorithm)\|휴리스틱 알고리즘(Heuristic Algorithm)]] 참고
 - 실제로 **더 가까울것으로 추정되는 경로를 우선적으로 탐색**함으로써 불필요한 탐색을 줄일 수 있다
 
 ### 두 알고리즘의 사용처
@@ -51,9 +52,3 @@ f(n) = g(n) + h(n)
 목표 노드를 찾았을 경우 목표 노드로부터 부모 노드를 타고 올라가 경로를 탐색
 
 휴리스틱 알고리즘이 잘못될 경우 성능이 저하될 수 있음에 유의한다
-
----
-### 관련 문서
-[[02.DevWiki/Sources/동적 계획법 (Dynamic Programming)\|동적 계획법 (Dynamic Programming)]]
-[[02.DevWiki/Sources/그리디 알고리즘 (Greedy Algorithm)\|그리디 알고리즘 (Greedy Algorithm)]]
-[[02.DevWiki/Sources/휴리스틱 알고리즘(Heuristic Algorithm)\|휴리스틱 알고리즘(Heuristic Algorithm)]]

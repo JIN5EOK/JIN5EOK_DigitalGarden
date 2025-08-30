@@ -10,7 +10,4 @@
 		* 충돌이 일어날 가능성이 **매우 낮은 편** (가능성이 아예 없는 것은 아님)
 	* 효율적 연산
 		* MD5보단 느리지만 여전히 빠르다
-
----
-### 관련 문서
-[[02.DevWiki/Sources/MD5 (Message Digest Algorithm 5)\|MD5 (Message Digest Algorithm 5)]]
+    		* [[02.DevWiki/Sources/MD5 (Message Digest Algorithm 5)\|MD5 (Message Digest Algorithm 5)]] 참고

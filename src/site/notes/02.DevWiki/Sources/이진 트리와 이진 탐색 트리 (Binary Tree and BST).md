@@ -7,6 +7,7 @@
 ## 이진 트리 (Binary Tree)
 
 > 각 노드가 **최대 두 개의 자식 노드**를 가질 수 있는 트리.
+> 트리에 대해선 [[02.DevWiki/Sources/트리 (Tree)\|트리 (Tree)]] 참고
  
 ![Binary Tree.png](/img/user/02.DevWiki/Sources/Files/Binary%20Tree.png)
 
@@ -25,11 +26,14 @@
 
 > **효율적인 탐색 작업을 위해** 이진 트리에 규칙을 추가한 자료구조
 
+* 이진 탐색에 대해선 [[02.DevWiki/Sources/이진 탐색 (Binary Search)\|이진 탐색 (Binary Search)]] 참고
+
 ![Binary Search Tree.png](/img/user/02.DevWiki/Sources/Files/Binary%20Search%20Tree.png)
 
 -   **규칙**
     1.  노드의 **왼쪽 서브트리**에는 해당 노드보다 **작은 값**을 갖는 노드들만 존재한다.
     2.  노드의 **오른쪽 서브트리**에는 해당 노드보다 **큰 값**을 갖는 노드들만 존재한다.
+
 
 ### 장점과 단점
 
@@ -47,11 +51,3 @@
 	* [[02.DevWiki/Sources/M원 탐색 트리 (M-way Search Tree)\|M원 탐색 트리 (M-way Search Tree)]]
 
 
----
-
-### 관련 문서
-
-[[02.DevWiki/Sources/트리 (Tree)\|트리 (Tree)]]
-[[02.DevWiki/Sources/전위, 중위, 후위 트리 순회 (Tree Traversal)\|전위, 중위, 후위 트리 순회 (Tree Traversal)]]
-[[02.DevWiki/Sources/이진 탐색 (Binary Search)\|이진 탐색 (Binary Search)]]
-[[02.DevWiki/Sources/M원 탐색 트리 (M-way Search Tree)\|M원 탐색 트리 (M-way Search Tree)]]

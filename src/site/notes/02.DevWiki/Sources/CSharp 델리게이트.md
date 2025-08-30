@@ -35,6 +35,3 @@ private int Add(int x, int y)
 > ☺️만약 각각 함수들의 반환값을 별도로 처리하고 싶다면..
 
 * **GetInvocationList()** 라는 함수를 이용해보자
-
----
-[[02.DevWiki/Sources/CSharp 델리게이트 이벤트 실행과 멀티스레드\|CSharp 델리게이트 이벤트 실행과 멀티스레드]]

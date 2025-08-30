@@ -18,8 +18,5 @@
 	* F**CAD**F
 	* CAD가 최장 공통 부분 문자열임
 
-둘다 구할때 동적 계획법을 사용하면 좋음
-
----
-### 관련 문서
-[[02.DevWiki/Sources/동적 계획법 (Dynamic Programming)\|동적 계획법 (Dynamic Programming)]]
+### 동적 계획법을 사용하자
+* [[02.DevWiki/Sources/동적 계획법 (Dynamic Programming)\|동적 계획법 (Dynamic Programming)]] 을 사용해 두 수열을 구할 수 있다

@@ -5,7 +5,7 @@
 # M원 탐색 트리 (M-way Search Tree)
 
 > 😁 M원 탐색 트리는 이진 탐색 트리를 일반화 한 자료구조라고 볼 수 있다!
-> [[02.DevWiki/Sources/이진 트리와 이진 탐색 트리 (Binary Tree and BST)\|이진 트리와 이진 탐색 트리 (Binary Tree and BST)]]
+> [[02.DevWiki/Sources/이진 트리와 이진 탐색 트리 (Binary Tree and BST)\|이진 트리와 이진 탐색 트리 (Binary Tree and BST)]] 참고
 
 > M원 검색 트리는 각 노드가 최대 **M개의 자식**과 **M-1개의 키**를 가질 수 있는 검색 트리이다
 > **이진 탐색 트리**와 **개념적으로 동일**하다! **이진 탐색 트리 = 2원 검색 트리**라고 볼 수 있다.
@@ -27,14 +27,6 @@
 
 - M원 검색 트리는 **삽입과 삭제 연산 시 트리가 한쪽으로 치우쳐져 불균형 상태**가 될 수 있다.
 - 이 경우 **트리의 높이가 급격히 증가하여 검색 성능이 저하**될 수 있다.
-- 이러한 불균형 문제를 해결하기 위해 항상 균형을 유지하도록 **제약 조건을 추가**한 것이 [[02.DevWiki/Sources/B트리와 B+트리\|B트리와 B+트리]]다. 
+- 이러한 불균형 문제를 해결하기 위해 항상 균형을 유지하도록 **제약 조건을 추가**한 것이 B트리와 B+트리이다.
 	- **B-트리는 M원 검색 트리의 일종**으로, **모든 리프 노드가 같은 높이를 갖도록 보장**한다.
-
----
-
-### 관련 문서
-
-[[02.DevWiki/Sources/트리 (Tree)\|트리 (Tree)]]
-[[02.DevWiki/Sources/B트리와 B+트리\|B트리와 B+트리]]
-[[02.DevWiki/Sources/이진 탐색 (Binary Search)\|이진 탐색 (Binary Search)]]
-[[02.DevWiki/Sources/이진 트리와 이진 탐색 트리 (Binary Tree and BST)\|이진 트리와 이진 탐색 트리 (Binary Tree and BST)]]
+	- [[02.DevWiki/Sources/B트리와 B+트리\|B트리와 B+트리]] 참고

@@ -39,9 +39,7 @@
 > 😁 **인접 행렬**은 간선간 **연결 여부 판단**에 이점이 있고 **인접 리스트**는 **메모리를 적게 차지**하는데 이점이 있다
 > 그러나 대부분의 상황에선 **인접 리스트만 써도 충분**하다!
 
+### 사실 그래프 보다는 트리를 접할일이 더 많을 것이다
 
----
-### 관련 문서
-[[02.DevWiki/Sources/트리 (Tree)\|트리 (Tree)]]
-[[02.DevWiki/Sources/DFS (깊이 우선 탐색, Depth-First Search)\|DFS (깊이 우선 탐색, Depth-First Search)]]
-[[02.DevWiki/Sources/BFS (너비 우선 탐색, Breadth-First Search)\|BFS (너비 우선 탐색, Breadth-First Search)]]
+* 그래프에서 **파생된 자료구조**로 **트리**가 존재한다
+* 트리에 대해선 [[02.DevWiki/Sources/트리 (Tree)\|트리 (Tree)]]를 참고

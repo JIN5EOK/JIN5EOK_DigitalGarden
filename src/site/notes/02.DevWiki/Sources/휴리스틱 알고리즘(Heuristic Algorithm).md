@@ -16,14 +16,7 @@
 ### 휴리스틱 예시
 
 - **[[02.DevWiki/Sources/그리디 알고리즘 (Greedy Algorithm)\|그리디 알고리즘 (Greedy Algorithm)]]**
-    - 각 단계에서 최선으로 보이는 선택을 함 (최적해 도출이 아님)
+    - 각 단계에서 최선으로 보이는 선택을 함 (최적해 도출이 아님), 하지만 모든 그리디 알고리즘이 휴리스틱 알고리즘을 사용하는건 아니다
 
 - **[[02.DevWiki/Sources/에이스타 알고리즘 (A-Star Algorithm)\|에이스타 알고리즘 (A-Star Algorithm)]]**
     - 현재 위치에서 목표까지의 **휴리스틱 값**을 사용하여 최적의 경로를 추정한다. 
-
-
----
-### 관련 문서
-[[02.DevWiki/Sources/에이스타 알고리즘 (A-Star Algorithm)\|에이스타 알고리즘 (A-Star Algorithm)]]
-[[02.DevWiki/Sources/그리디 알고리즘 (Greedy Algorithm)\|그리디 알고리즘 (Greedy Algorithm)]]
-[[02.DevWiki/Sources/그리디 알고리즘과 동적 계획법의 차이\|그리디 알고리즘과 동적 계획법의 차이]]

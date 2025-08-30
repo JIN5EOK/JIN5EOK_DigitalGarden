@@ -22,7 +22,6 @@
 * **C++ 오브젝트**
 	* **코어영역, 네이티브 리소스**
 	* **실질적인** 구현
-[[02.DevWiki/Sources/유니티 스크립팅 영역, 코어 영역\|유니티 스크립팅 영역, 코어 영역]]
 ### 유니티 오브젝트 파괴시 일어나는 일
 * **C++ 오브젝트**
 	* **즉시**파괴
@@ -34,8 +33,5 @@
 * **파괴된 Unity Object에 다시 접근한다면?**
 	* 오브젝트를 **다시 생성**
 	* 단 **Monobehaviour, ScriptableObject**는 **예외**
-
 ![유니티 오브젝트](https://docs.unity3d.com/kr/2023.2/uploads/Main/unity-engine-object.png)
-
----
-[[02.DevWiki/Sources/유니티 스크립팅 영역, 코어 영역\|유니티 스크립팅 영역, 코어 영역]]
+![유니티 오브젝트](https://docs.unity3d.com/kr/2023.2/uploads/Main/unity-engine-object.png)

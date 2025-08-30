@@ -8,6 +8,8 @@
 
 - **큐**를 사용하여 구현.
 - **시작노드와 인접한 노드**를 우선 탐색한 후 다음 계층의 노드들을 탐색한다
+- 반대개념으로 **DFS(깊이 우선 탐색)** 이 존재한다
+    - [[02.DevWiki/Sources/DFS (깊이 우선 탐색, Depth-First Search)\|DFS (깊이 우선 탐색, Depth-First Search)]] 참고
 
 ### 특징
 - **장점**
@@ -34,4 +36,3 @@
 
 ---
 ### 관련 문서
-[[02.DevWiki/Sources/DFS (깊이 우선 탐색, Depth-First Search)\|DFS (깊이 우선 탐색, Depth-First Search)]]

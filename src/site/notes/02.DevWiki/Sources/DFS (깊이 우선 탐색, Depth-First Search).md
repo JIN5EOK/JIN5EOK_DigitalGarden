@@ -6,6 +6,8 @@
 
 - **스택(Stack)** 또는 **재귀 함수**를 사용하여 구현.
 - **깊이를 우선적으로 탐색**, 더 이상 갈 곳이 없으면 이전 노드들을 하나씩 되짚어가며 탐색을 이어간다
+- 반대개념으로 **BFS(넓이 우선 탐색)** 이 존재한다
+    - [[02.DevWiki/Sources/BFS (너비 우선 탐색, Breadth-First Search)\|BFS (너비 우선 탐색, Breadth-First Search)]] 참고
 ### 특징
 - **장점**
     - 현재 경로상의 노드만 기억하면 되므로 **공간 복잡도가 낮다**.
@@ -28,9 +30,5 @@
 * **공간 복잡도**가 중요할 때
 
 ### 백트래킹을 통해 성능을 개선시킬 수 있음
-* [[02.DevWiki/Sources/백트래킹 (Backtracking)\|백트래킹 (Backtracking)]] - 현재 단계에서 더 이상 탐색할 필요가 있을지 판단하는 **가지치기**를 통해 성능 개선
-
----
-### 관련 문서
-[[02.DevWiki/Sources/BFS (너비 우선 탐색, Breadth-First Search)\|BFS (너비 우선 탐색, Breadth-First Search)]]
-[[02.DevWiki/Sources/백트래킹 (Backtracking)\|백트래킹 (Backtracking)]]
+* 현재 단계에서 더 이상 탐색할 필요가 있을지 판단하는 **가지치기**를 통해 성능 개선
+    * [[02.DevWiki/Sources/백트래킹 (Backtracking)\|백트래킹 (Backtracking)]] 참고
