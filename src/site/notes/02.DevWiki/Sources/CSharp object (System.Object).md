@@ -29,4 +29,4 @@
 
 ---
 ### 연관 문서 
-[[02.DevWiki/Sources/박싱과 언박싱\|박싱과 언박싱]]
+[[02.DevWiki/Sources/CSharp 박싱과 언박싱\|CSharp 박싱과 언박싱]]

@@ -3,7 +3,6 @@
 ---
 
 ### 일반
-[[02.DevWiki/Sources/박싱과 언박싱\|박싱과 언박싱]]
 [[02.DevWiki/Sources/값 vs 참조 (Value vs Reference)\|값 vs 참조 (Value vs Reference)]]
 [[02.DevWiki/Sources/Base64\|Base64]]
 [[02.DevWiki/Sources/인터닝 (Interning)\|인터닝 (Interning)]]
