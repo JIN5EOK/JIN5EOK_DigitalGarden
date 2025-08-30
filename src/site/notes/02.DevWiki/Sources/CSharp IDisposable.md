@@ -31,4 +31,3 @@
 ---
 ### 관련 문서
 [[02.DevWiki/Sources/CSharp 표준 Dispose 패턴\|CSharp 표준 Dispose 패턴]]
-[[CSharp IDisposable이 반드시 구현해야하는 것\|CSharp IDisposable이 반드시 구현해야하는 것]]

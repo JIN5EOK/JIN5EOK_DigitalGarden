@@ -3,7 +3,7 @@
 ---
 
 
-> Dispose 패턴은 _**종료자 및 IDisposable 인터페이스의 사용 및 구현을 표준화하기 위한 것** 입니다.
+> Dispose 패턴은 _**종료자 및 IDisposable 인터페이스의 사용 및 구현을 표준화하기 위한 것**
 > [https://learn.microsoft.com/ko-kr/dotnet/standard/design-guidelines/dispose-pattern#basic-dispose-pattern](https://learn.microsoft.com/ko-kr/dotnet/standard/design-guidelines/dispose-pattern#basic-dispose-pattern)
 
 
@@ -36,7 +36,7 @@ public class DisposableResourceHolder : IDisposable {
 }
 ```
 
-> 핵심 요지는 IDisposable 인터페이스를 구현하면서 추가로 `protected void Dispose(bool disposing)` 함수를 구현하는 것이다.
+> IDisposable 인터페이스를 구현하면서 추가로 `protected void Dispose(bool disposing)` 함수를 구현해야 한다.
 > public 함수와 파라미터가 추가되는 것이 아니므로 사용자 입장에서는 알 수 없는 변화이다.
 ### bool disposing이 뭘까?
 * **True**
