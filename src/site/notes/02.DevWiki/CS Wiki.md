@@ -7,7 +7,7 @@
 [[02.DevWiki/Sources/값 vs 참조 (Value vs Reference)\|값 vs 참조 (Value vs Reference)]]
 [[02.DevWiki/Sources/Base64\|Base64]]
 [[02.DevWiki/Sources/인터닝 (Interning)\|인터닝 (Interning)]]
-[[02.DevWiki/Sources/BoilerPlate\|BoilerPlate]]
+[[02.DevWiki/Sources/보일러 플레이트(Boiler Plate)\|보일러 플레이트(Boiler Plate)]]
 [[02.DevWiki/Sources/UTF-8, UTF-16, UTF-32\|UTF-8, UTF-16, UTF-32]]
 [[02.DevWiki/Sources/UML - 클래스 다이어그램\|UML - 클래스 다이어그램]]
 [[02.DevWiki/Sources/Fire-And-Forget\|Fire-And-Forget]]
