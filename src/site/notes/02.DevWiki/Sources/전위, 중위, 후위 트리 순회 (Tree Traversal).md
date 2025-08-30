@@ -27,7 +27,7 @@
 ![Preorder-traversal.gif](/img/user/02.DevWiki/Sources/Files/Preorder-traversal.gif)
 
 - **특징**
-	- 통상적인 [[02.DevWiki/Sources/DFS (깊이 우선 탐색, Depth-First Search)\|DFS (깊이 우선 탐색, Depth-First Search)]] 과 별반 다를 바 없음
+	- 재미있게도 통상적인 [[02.DevWiki/Sources/DFS (깊이 우선 탐색, Depth-First Search)\|DFS (깊이 우선 탐색, Depth-First Search)]] 과 별반 다를 바 없음 😁
 	- 그냥 좌측 자식 노드를 우선으로 **깊이 우선 탐색**을 진행하면서 **만나는 노드들을 모두 방문처리** 하면 됨!
 	- **트리의 구조를 가장 잘 표현**하는 방식.
 
