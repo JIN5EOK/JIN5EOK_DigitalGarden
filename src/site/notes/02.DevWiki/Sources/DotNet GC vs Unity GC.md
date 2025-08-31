@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/02.DevWiki/Sources/DotNet GC vs Unity GC/"}
 ---
 
-### .NET GC vs Unity GC
-
 각 GC들에 대해선 아래 노트들을 참고하자
 [[02.DevWiki/Sources/DotNet Garbage Collection (닷넷 가비지컬렉션)\|DotNet Garbage Collection (닷넷 가비지컬렉션)]]
 [[02.DevWiki/Sources/Unity Garbage Collection (유니티 가비지컬렉션)\|Unity Garbage Collection (유니티 가비지컬렉션)]]
+
+### .NET GC vs Unity GC
 
 
 * **수거영역**
