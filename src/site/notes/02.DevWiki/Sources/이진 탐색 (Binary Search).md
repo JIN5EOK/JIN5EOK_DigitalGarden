@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/이진 탐색 (Binary Search)/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/이진 탐색 (Binary Search)/"}
 ---
 
 # 이진 탐색 (Binary Search)

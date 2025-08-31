@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/백트래킹 (Backtracking)/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/백트래킹 (Backtracking)/"}
 ---
 
 # 백트래킹 (Backtracking)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/CS Wiki/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/CS Wiki/"}
 ---
 
 ### 일반

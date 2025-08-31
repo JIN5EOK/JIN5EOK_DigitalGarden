@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/삼각함수 (Trigonometric Functions)/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/삼각함수 (Trigonometric Functions)/"}
 ---
 
 > **직각삼각형의 변들의 길이 비율을 각도와 연관시키는 함수**

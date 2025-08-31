@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/유니티 DI 프레임워크 - Zenject, Extenject/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/유니티 DI 프레임워크 - Zenject, Extenject/"}
 ---
 
 > VContainer가 더 널리 쓰이는 상황이라 간단하게만 훑었음

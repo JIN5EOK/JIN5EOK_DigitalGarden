@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp readonly vs const 차이와 특성 비교/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp readonly vs const 차이와 특성 비교/"}
 ---
 
 ## readonly

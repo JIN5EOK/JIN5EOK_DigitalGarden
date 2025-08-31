@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/DotNet Garbage Collection (닷넷 가비지컬렉션)/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/DotNet Garbage Collection (닷넷 가비지컬렉션)/"}
 ---
 
 > 세대별GC 알고리즘을 사용해 객체를 세대로 구분하는것이 특징

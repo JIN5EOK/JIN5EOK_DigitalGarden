@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/행동트리 (BT, Behaviour Tree)/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/행동트리 (BT, Behaviour Tree)/"}
 ---
 
 > 트리 형태의 계층적 자료구조를 기반으로 행동을 결정하는 방식

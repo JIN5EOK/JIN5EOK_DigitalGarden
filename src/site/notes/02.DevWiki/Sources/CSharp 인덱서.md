@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp 인덱서/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp 인덱서/"}
 ---
 
 ### 클래스를 배열처럼 동작하게 만들 수 있다

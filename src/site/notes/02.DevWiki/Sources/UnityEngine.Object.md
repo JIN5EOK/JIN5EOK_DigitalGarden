@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/UnityEngine.Object/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/UnityEngine.Object/"}
 ---
 
 

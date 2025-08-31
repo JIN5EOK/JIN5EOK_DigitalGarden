@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp 타입 이름이 필요할 땐 nameof를 사용하자/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp 타입 이름이 필요할 땐 nameof를 사용하자/"}
 ---
 
 ### `nameof(value)`

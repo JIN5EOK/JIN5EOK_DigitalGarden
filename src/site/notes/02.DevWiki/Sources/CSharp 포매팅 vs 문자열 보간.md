@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp 포매팅 vs 문자열 보간/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp 포매팅 vs 문자열 보간/"}
 ---
 
 ## 포매팅

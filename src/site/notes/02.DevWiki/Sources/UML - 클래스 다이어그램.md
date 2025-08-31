@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/UML - 클래스 다이어그램/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/UML - 클래스 다이어그램/"}
 ---
 
 # 클래스 다이어그램

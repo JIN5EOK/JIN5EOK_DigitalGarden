@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/Fire-And-Forget/","tags":["dg-publish"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/Fire-And-Forget/","tags":["dg-publish"]}
 ---
 
 > 🤔 Forget? 잊어버린다는 뜻 아닌가? 실행하는 메서드인데 왜 잊어버리는 거지?

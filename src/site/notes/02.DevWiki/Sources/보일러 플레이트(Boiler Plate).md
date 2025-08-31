@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/보일러 플레이트(Boiler Plate)/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/보일러 플레이트(Boiler Plate)/"}
 ---
 
 ## 보일러 플레이트(Boilerplate)?

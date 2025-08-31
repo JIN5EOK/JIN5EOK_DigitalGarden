@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/M원 탐색 트리 (M-way Search Tree)/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/M원 탐색 트리 (M-way Search Tree)/"}
 ---
 
 # M원 탐색 트리 (M-way Search Tree)

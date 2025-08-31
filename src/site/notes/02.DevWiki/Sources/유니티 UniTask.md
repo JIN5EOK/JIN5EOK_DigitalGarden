@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/유니티 UniTask/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/유니티 UniTask/"}
 ---
 
 > 유니티 환경에서 특화된 비동기 작업을 구현하도록 도와주는 라이브러리

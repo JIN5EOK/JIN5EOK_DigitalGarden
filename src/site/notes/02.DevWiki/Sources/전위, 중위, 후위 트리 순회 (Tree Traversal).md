@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/전위, 중위, 후위 트리 순회 (Tree Traversal)/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/전위, 중위, 후위 트리 순회 (Tree Traversal)/"}
 ---
 
 # 트리 순회 (Tree Traversal)

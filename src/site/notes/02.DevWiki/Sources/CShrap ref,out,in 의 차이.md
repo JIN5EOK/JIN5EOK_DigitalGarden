@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CShrap ref,out,in 의 차이/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CShrap ref,out,in 의 차이/"}
 ---
 
 > 셋다 **메서드 매개변수** 앞에 붙이는 키워드, **매개변수를 참조 형태**로 넘기는 역할을 한다

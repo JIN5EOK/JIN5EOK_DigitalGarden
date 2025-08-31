@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01.DevLog/DevLog/","noteIcon":""}
+{"dg-publish":true,"permalink":"/01.DevLog/DevLog/"}
 ---
 
 [[01.DevLog/Sources/241117_유니티 API는 메인스레드에서만 호출 가능함에 주의하자\|241117_유니티 API는 메인스레드에서만 호출 가능함에 주의하자]]

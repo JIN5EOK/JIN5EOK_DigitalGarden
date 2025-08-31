@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/IOS 백그라운드 작업/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/IOS 백그라운드 작업/"}
 ---
 
 > 기본적으로 IOS에서는 앱 포커스를 전환할 경우 리소스 절약을 위해 백그라운드 작업을 중단시킨다, 예외사항을 위해 아래와 같은 방법들이 마련되어 있다

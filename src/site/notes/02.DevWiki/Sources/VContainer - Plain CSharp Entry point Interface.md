@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/VContainer - Plain CSharp Entry point Interface/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/VContainer - Plain CSharp Entry point Interface/"}
 ---
 
 ### 일반 C# 진입점(Entry Point) 인터페이스

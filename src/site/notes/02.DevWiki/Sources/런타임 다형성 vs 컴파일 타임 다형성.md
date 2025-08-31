@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/런타임 다형성 vs 컴파일 타임 다형성/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/런타임 다형성 vs 컴파일 타임 다형성/"}
 ---
 
 ### 런타임 다형성 vs 컴파일 타임 다형성

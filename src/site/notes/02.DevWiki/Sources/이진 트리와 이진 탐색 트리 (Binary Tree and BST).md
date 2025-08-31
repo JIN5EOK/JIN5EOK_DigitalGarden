@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/이진 트리와 이진 탐색 트리 (Binary Tree and BST)/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/이진 트리와 이진 탐색 트리 (Binary Tree and BST)/"}
 ---
 
 # 이진 트리와 이진 탐색 트리

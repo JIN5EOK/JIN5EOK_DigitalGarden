@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/힙 (Heap)/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/힙 (Heap)/"}
 ---
 
 # 힙 (Heap)

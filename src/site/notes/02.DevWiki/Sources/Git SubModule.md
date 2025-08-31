@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/Git SubModule/","tags":["dg-publish"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/Git SubModule/","tags":["dg-publish"]}
 ---
 
 # Git Submodule

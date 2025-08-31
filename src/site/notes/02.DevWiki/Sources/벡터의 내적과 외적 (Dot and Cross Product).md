@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/벡터의 내적과 외적 (Dot and Cross Product)/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/벡터의 내적과 외적 (Dot and Cross Product)/"}
 ---
 
 ## 내적 (Dot Product)

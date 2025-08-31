@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/유니티에서의 Async,Await/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/유니티에서의 Async,Await/"}
 ---
 
 

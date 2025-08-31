@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/에이스타 알고리즘 (A-Star Algorithm)/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/에이스타 알고리즘 (A-Star Algorithm)/"}
 ---
 
 > 에이스타 알고리즘이란 다익스트라 알고리즘을 확장시켜 만들어진 길찾기 알고리즘이다

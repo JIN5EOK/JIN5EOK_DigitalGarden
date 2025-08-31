@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/TCP vs UDP/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/TCP vs UDP/"}
 ---
 
 > 둘다 OSI 7계층 중 데이터 패킷의 전송을 담당하는 4계층-전송계층에 해당

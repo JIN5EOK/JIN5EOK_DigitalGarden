@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/리포지토리 패턴 (Repository Pattern)/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/리포지토리 패턴 (Repository Pattern)/"}
 ---
 
 > 도메인 로직과 데이터 접근 로직을 분리하기 위한 아키텍쳐 패턴

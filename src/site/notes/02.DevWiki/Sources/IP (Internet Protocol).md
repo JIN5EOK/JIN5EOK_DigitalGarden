@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/IP (Internet Protocol)/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/IP (Internet Protocol)/"}
 ---
 
 > 지정한 IP Address에 패킷이라는 형태로 데이터 전달

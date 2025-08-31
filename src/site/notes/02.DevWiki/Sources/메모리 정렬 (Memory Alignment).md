@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/메모리 정렬 (Memory Alignment)/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/메모리 정렬 (Memory Alignment)/"}
 ---
 
 ### 개념

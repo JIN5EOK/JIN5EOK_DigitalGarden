@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/동적 타이핑, 정적 타이핑 (Type + ing)/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/동적 타이핑, 정적 타이핑 (Type + ing)/"}
 ---
 
 - **동적 타이핑**

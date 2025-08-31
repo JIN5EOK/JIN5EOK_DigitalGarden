@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/그래프 (Graph)/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/그래프 (Graph)/"}
 ---
 
 # 그래프 (Graph)

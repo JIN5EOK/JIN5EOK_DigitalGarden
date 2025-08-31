@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Unity Wiki/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Unity Wiki/"}
 ---
 
 ### 코어 영역

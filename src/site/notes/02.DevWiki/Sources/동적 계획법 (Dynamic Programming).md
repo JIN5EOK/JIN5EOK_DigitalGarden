@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/동적 계획법 (Dynamic Programming)/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/동적 계획법 (Dynamic Programming)/"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp Partial 클래스/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp Partial 클래스/"}
 ---
 
 > 하나의 클래스를 여러개의 파일로 나누어 작성할 수 있다

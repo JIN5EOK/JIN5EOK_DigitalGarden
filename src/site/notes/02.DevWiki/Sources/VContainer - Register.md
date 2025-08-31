@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/VContainer - Register/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/VContainer - Register/"}
 ---
 
 # `IContainerBuilder.Register`

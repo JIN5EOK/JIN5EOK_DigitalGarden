@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/단위원 (Unit Circle)/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/단위원 (Unit Circle)/"}
 ---
 
 > **반지름이 1**이고 **중심이 원점(0, 0)** 인 원

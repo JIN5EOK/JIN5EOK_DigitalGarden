@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/라디안(Radian)과 디그리(Degree)/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/라디안(Radian)과 디그리(Degree)/"}
 ---
 
 -   **디그리 (Degree)**

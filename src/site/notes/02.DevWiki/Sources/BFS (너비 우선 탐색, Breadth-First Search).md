@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/BFS (너비 우선 탐색, Breadth-First Search)/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/BFS (너비 우선 탐색, Breadth-First Search)/"}
 ---
 
 # BFS (너비 우선 탐색, Breadth-First Search)

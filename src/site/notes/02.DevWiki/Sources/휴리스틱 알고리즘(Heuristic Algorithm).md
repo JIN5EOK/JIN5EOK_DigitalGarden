@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/휴리스틱 알고리즘(Heuristic Algorithm)/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/휴리스틱 알고리즘(Heuristic Algorithm)/"}
 ---
 
 # 휴리스틱 알고리즘 (Heuristic Algorithm)

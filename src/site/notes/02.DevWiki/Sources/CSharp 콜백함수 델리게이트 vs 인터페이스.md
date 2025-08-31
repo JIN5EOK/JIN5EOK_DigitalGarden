@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp 콜백함수 델리게이트 vs 인터페이스/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp 콜백함수 델리게이트 vs 인터페이스/"}
 ---
 
 ## 델리게이트

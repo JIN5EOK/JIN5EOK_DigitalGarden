@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/Git Commit Message 깃 커밋 메시지 규칙/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/Git Commit Message 깃 커밋 메시지 규칙/"}
 ---
 
 > 깃 커밋 메시지를 명확하고 깔끔하게 나타내기 위한 규칙, 공식적으로 정해진 규칙은 아니지만 대체로 아래와 비슷한 형식으로 작성됨

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp 델리게이트 이벤트 실행과 멀티스레드/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp 델리게이트 이벤트 실행과 멀티스레드/"}
 ---
 
 > 멀티스레드 환경에서 델리게이트 이벤트를 실행할 경우 동기화 문제가 발생할 수 있다, 이를 해결하는 방법들을 정리하였다.

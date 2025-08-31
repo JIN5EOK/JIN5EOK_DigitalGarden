@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"]}
 ---
 
 # 🪴JIN5EOK's Digital Garden

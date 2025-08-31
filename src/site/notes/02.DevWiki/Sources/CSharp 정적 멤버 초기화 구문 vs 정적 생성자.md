@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp 정적 멤버 초기화 구문 vs 정적 생성자/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp 정적 멤버 초기화 구문 vs 정적 생성자/"}
 ---
 
 ``` csharp

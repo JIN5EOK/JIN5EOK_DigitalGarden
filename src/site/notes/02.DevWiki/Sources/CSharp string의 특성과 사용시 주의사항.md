@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp string의 특성과 사용시 주의사항/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp string의 특성과 사용시 주의사항/"}
 ---
 
 > 연속된 문자를 표현하는 자료형

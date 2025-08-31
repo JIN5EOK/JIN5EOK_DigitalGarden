@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/우선순위 큐 (Priority Queue)/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/우선순위 큐 (Priority Queue)/"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/Unity Garbage Collection (유니티 가비지컬렉션)/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/Unity Garbage Collection (유니티 가비지컬렉션)/"}
 ---
 
 > 보헴GC 알고리즘 사용, 전반적으로 .NET GC에 비해 성능이 떨어짐

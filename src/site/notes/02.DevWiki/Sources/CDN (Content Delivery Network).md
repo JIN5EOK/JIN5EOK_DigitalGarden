@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CDN (Content Delivery Network)/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CDN (Content Delivery Network)/"}
 ---
 
 ## CDN (Content Delivery Network)이란

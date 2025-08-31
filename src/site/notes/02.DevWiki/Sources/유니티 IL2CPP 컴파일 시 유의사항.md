@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/유니티 IL2CPP 컴파일 시 유의사항/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/유니티 IL2CPP 컴파일 시 유의사항/"}
 ---
 
 * IL2CPP란? [[02.DevWiki/Sources/유니티 Mono vs IL2CPP\|유니티 Mono vs IL2CPP]] 참고

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01.DevLog/Sources/250103_UnityPurchasing 구글 플레이,앱스토어 인앱결제/","noteIcon":""}
+{"dg-publish":true,"permalink":"/01.DevLog/Sources/250103_UnityPurchasing 구글 플레이,앱스토어 인앱결제/"}
 ---
 
 # 개요

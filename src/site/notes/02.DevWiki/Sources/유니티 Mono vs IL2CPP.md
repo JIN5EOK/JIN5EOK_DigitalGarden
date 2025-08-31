@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/유니티 Mono vs IL2CPP/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/유니티 Mono vs IL2CPP/"}
 ---
 
 ## Mono (JIT, Just In Time)

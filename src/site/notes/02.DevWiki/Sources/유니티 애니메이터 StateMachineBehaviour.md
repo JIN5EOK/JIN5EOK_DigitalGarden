@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/유니티 애니메이터 StateMachineBehaviour/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/유니티 애니메이터 StateMachineBehaviour/"}
 ---
 
 > 개별 애니메이션의 시작이나 종료 등 특정 상태에 진입할 때 실행할 로직을 정의할 수 있게 해준다

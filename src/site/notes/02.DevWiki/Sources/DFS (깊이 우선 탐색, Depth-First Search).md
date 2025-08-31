@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/DFS (깊이 우선 탐색, Depth-First Search)/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/DFS (깊이 우선 탐색, Depth-First Search)/"}
 ---
 
 # DFS (깊이 우선 탐색, Depth-First Search)

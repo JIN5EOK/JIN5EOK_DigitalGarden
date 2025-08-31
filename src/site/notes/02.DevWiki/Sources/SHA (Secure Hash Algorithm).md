@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/SHA (Secure Hash Algorithm)/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/SHA (Secure Hash Algorithm)/"}
 ---
 
 

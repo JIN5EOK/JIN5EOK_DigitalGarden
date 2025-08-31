@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/브루트포스 (Brute-force)/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/브루트포스 (Brute-force)/"}
 ---
 
 # 브루트포스 (Brute-force)

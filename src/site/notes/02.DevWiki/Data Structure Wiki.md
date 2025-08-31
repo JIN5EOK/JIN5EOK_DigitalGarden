@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Data Structure Wiki/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Data Structure Wiki/"}
 ---
 
 [[02.DevWiki/Sources/그래프 (Graph)\|그래프 (Graph)]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp Lazy Initialize (지연 초기화)/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp Lazy Initialize (지연 초기화)/"}
 ---
 
 > 객체의 실제 초기화 시점을 객체를 사용하는 시점까지 미룰 수 있다

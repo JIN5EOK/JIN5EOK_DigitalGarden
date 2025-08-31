@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp 파생 메서드에는 가급적 virtual 키워드를 사용하자/","noteIcon":""}
+{"dg-publish":true,"permalink":"/02.DevWiki/Sources/CSharp 파생 메서드에는 가급적 virtual 키워드를 사용하자/"}
 ---
 
 ### virtual vs new
