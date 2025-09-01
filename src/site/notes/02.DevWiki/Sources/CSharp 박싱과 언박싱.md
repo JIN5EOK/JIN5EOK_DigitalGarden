@@ -22,6 +22,7 @@
 	* 값 형태의 데이터를 object로 캐스팅하는 모든 상황
 	* 비제네릭 컬렉션을 사용하는 상황
 		* 비제네릭 컬렉션들은 내부적으로 데이터들을 object로 다룸
+    * object에 대한 내용은 [[02.DevWiki/Sources/CSharp object (System.Object)\|CSharp object (System.Object)]]를 참고하자
 * 구조체의 **인터페이스** 사용
 	* 인터페이스를 상속받은 구조체를 인터페이스 형태로 업 캐스팅 할 경우
 
@@ -47,9 +48,3 @@
         value.DoSomething(); // 박싱 X
     }
 ```
-
-
----
-### 관련 문서
-[[02.DevWiki/Sources/CSharp object (System.Object)\|CSharp object (System.Object)]]
-[[02.DevWiki/Sources/런타임 다형성 vs 컴파일 타임 다형성\|런타임 다형성 vs 컴파일 타임 다형성]]
