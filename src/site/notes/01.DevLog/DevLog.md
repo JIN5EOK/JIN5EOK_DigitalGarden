@@ -12,3 +12,4 @@
 [[01.DevLog/Sources/250410_효과적인 유니티 UI 이벤트 할당 방식에 대한 고민\|250410_효과적인 유니티 UI 이벤트 할당 방식에 대한 고민]]
 [[01.DevLog/Sources/250420_유니티 패키지 매니저에서 비공개 리포지토리를 참조할 수 있도록 해보자\|250420_유니티 패키지 매니저에서 비공개 리포지토리를 참조할 수 있도록 해보자]]
 [[01.DevLog/Sources/250831_유니티 어드레서블 관리 시스템 개선기\|250831_유니티 어드레서블 관리 시스템 개선기]]
+[[01.DevLog/Sources/250901_XCode 업로드시 발생하는 contains disallowed file 'Frameworks' 에러 해결\|250901_XCode 업로드시 발생하는 contains disallowed file 'Frameworks' 에러 해결]]

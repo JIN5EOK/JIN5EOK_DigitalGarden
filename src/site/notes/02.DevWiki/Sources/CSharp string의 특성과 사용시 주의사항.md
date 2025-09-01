@@ -9,7 +9,7 @@
 > 문자열은 인터닝이라는 최적화 기법을 사용.
 > 여러 string개체가 동일한 문자열을 저장할 경우 **같은 힙 메모리 주소**를 가리키게 됨
 
-* 인터닝이 가능한 것도 문자열이 **불변 객체**이기 때문이다, 같은 객체가 같은 값을 제공하는게 보장되므로
+* 인터닝이 가능한 것도 문자열이 **불변**이기 때문이다, **같은 힙 주소가 가리키는 객체 = 같은 값 제공**이 보장되므로
 * 인터닝에 대해서는 [[02.DevWiki/Sources/인터닝 (Interning)\|인터닝 (Interning)]]을 참고하자
 
 ### 인터닝과 관련된 예시
@@ -23,7 +23,7 @@ const string ConstString = " World!" // 문자열 상수, 인터닝 O
 string string2 = "Hello" + ConstString; // 문자열 상수 조합, 인터닝 O
 
 string string3 = new string("Hello".ToCharArray()); // 인터닝 안 거치고 무조건 생성됨..
-string string3 = string.Intern(string3) // 단 나중에 수동으로 인턴풀에 넣을 수는 있다
+string string3 = string.Intern(string3) // 단 string.Intern을 통해 수동으로 인턴풀에 넣거나 가져오도록 동작시킬 수 있다
 ```
 
 
