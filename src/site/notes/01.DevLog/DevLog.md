@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/01.DevLog/DevLog/"}
 ---
 
+[[01.DevLog/240825_Malformed URL로 인한 문제 해결\|240825_Malformed URL로 인한 문제 해결]]
 [[01.DevLog/Sources/241117_유니티 API는 메인스레드에서만 호출 가능함에 주의하자\|241117_유니티 API는 메인스레드에서만 호출 가능함에 주의하자]]
 [[01.DevLog/Sources/241124_Aseprite Importer 사용 후기\|241124_Aseprite Importer 사용 후기]]
 [[01.DevLog/Sources/241129_메인스레드에서만 실행 가능한 Mixpanel SDK 문제 해결하기\|241129_메인스레드에서만 실행 가능한 Mixpanel SDK 문제 해결하기]]
