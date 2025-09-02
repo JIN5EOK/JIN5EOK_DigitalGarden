@@ -24,7 +24,7 @@
 
 # 해결
 - `System.Uri.EscapeUriString`를 사용하여 URL 문자열을 이스케이프 처리해주니 문제가 해결되었다
-* URL에 사용할 수 없는 문자들을 `%` 인코딩된 헥사 표현으로 변환시켜 줌
+* URL에 사용할 수 없는 문자들을 `%` **Percent-encoding** 표현으로 변환시켜 줌
 
 ```csharp
 string baseUrl = "https://videoPlayer/";
