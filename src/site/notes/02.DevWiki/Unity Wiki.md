@@ -17,6 +17,8 @@
 [[02.DevWiki/Sources/유니티 어드레서블 에셋 번들과 관리 전략\|유니티 어드레서블 에셋 번들과 관리 전략]]
 [[02.DevWiki/Sources/유니티 Resources vs Addressables 비교\|유니티 Resources vs Addressables 비교]]
 
+[[02.DevWiki/Sources/유니티 로컬라이제이션 Smart String과 Variable\|유니티 로컬라이제이션 Smart String과 Variable]]
+
 [[02.DevWiki/Sources/유니티 UniTask\|유니티 UniTask]]
 
 [[02.DevWiki/Sources/유니티 UniRX\|유니티 UniRX]]
@@ -28,6 +30,8 @@
 [[02.DevWiki/Sources/유니티 TestRunner\|유니티 TestRunner]]
 
 [[02.DevWiki/Sources/유니티 Odin Inspector\|유니티 Odin Inspector]]
+
+
 ### 엔진 전반
 [[02.DevWiki/Sources/UnityEngine.Object\|UnityEngine.Object]]
 [[02.DevWiki/Sources/유니티 직렬화와 일반적인 의미의 직렬화의 차이\|유니티 직렬화와 일반적인 의미의 직렬화의 차이]]
