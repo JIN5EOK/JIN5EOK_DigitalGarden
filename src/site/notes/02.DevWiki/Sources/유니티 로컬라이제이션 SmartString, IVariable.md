@@ -2,11 +2,13 @@
 {"dg-publish":true,"permalink":"/02.DevWiki/Sources/유니티 로컬라이제이션 SmartString, IVariable/"}
 ---
 
+## 1. Smart String이란?
+
 > **SmartString**은 **파라미터나 조건식을 사용**하여 동적인 텍스트를 생성하는 기능이다.
 > 이를 통해 상황에 따른 문장의 변화 (변수 등)을 유연하게 구현할 수 있다.
 
-* Smart String에 삽입하기 위한 변수 객체로 `IVariable` 인터페이스 또는 `Variable<T>` 클래스가 제공된다.
-* 단 값 변경 등 갱신이 필요 없는 경우 Variable사용 없이 일반 C# 타입들을 변수로 사용해도 무방함.
+* 플레이어 이름, 아이템 수량, 점수 등 게임 내에서 **실시간으로 변하는 데이터를 텍스트에 삽입할 수 있도록 해준다**. 
+* 예를 들어, `'Jin5eok'님이 '10'개의 아이템을 획득했습니다!`와 같은 문장에서 **플레이어 이름과 아이템 갯수**를 변경할 수 있다
 
 ``` CSharp
  // 일반 변수를 전달하는 예시
@@ -18,11 +20,8 @@ vars["playerName"] = new StringVariable { Value = "Jinseok" };
 message.Arguments = new object[] { vars };
 ```
 
-## 1. Smart String 변수란?
-
-* 플레이어 이름, 아이템 수량, 점수 등 게임 내에서 **실시간으로 변하는 데이터를 텍스트에 삽입할 수 있도록 해준다**. 
-* 예를 들어, `'Jin5eok'님이 '10'개의 아이템을 획득했습니다!`와 같은 문장에서 **플레이어 이름과 아이템 갯수**를 변경할 수 있다
-
+* Smart String에 삽입하기 위한 변수 객체로 `IVariable` 인터페이스 또는 `Variable<T>` 클래스가 제공된다.
+* 단 값 변경 등 갱신이 필요 없는 경우 Variable사용 없이 일반 C# 타입들을 변수로 사용해도 무방함. 
 ## 2. IVariable 인터페이스
 
 * `IVariable`은 Smart String에 사용될 변수들이 상속받는 기본 인터페이스이다.
@@ -42,4 +41,3 @@ message.Arguments = new object[] { vars };
 
 * Smart String 변수를 구현할 때는 **대부분의 경우 유니티가 제공하는 `Variable<T>` 클래스**를 사용하는게 효율적임
 * **`IVariable`을 직접 구현**하는 경우는 **자동 갱신이 별로 중요하지 않으면서 복잡한 커스텀 로직**이 필요한 경우에만 고려하자!
-
