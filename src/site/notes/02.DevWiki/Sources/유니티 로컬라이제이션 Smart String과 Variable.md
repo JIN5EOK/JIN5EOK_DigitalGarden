@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/02.DevWiki/Sources/유니티 로컬라이제이션 Smart String과 Variable/"}
 ---
 
+
 > **SmartString**은 **파라미터나 조건식을 사용**하여 동적인 텍스트를 생성하는 기능이다.
 > 이를 통해 상황에 따른 문장의 변화 (변수 등)을 유연하게 구현할 수 있다.
 
@@ -42,3 +43,4 @@ message.Arguments = new object[] { vars };
 
 * Smart String 변수를 구현할 때는 **대부분의 경우 유니티가 제공하는 `Variable<T>` 클래스**를 사용하는게 효율적임
 * **`IVariable`을 직접 구현**하는 경우는 **자동 갱신이 별로 중요하지 않으면서 복잡한 커스텀 로직**이 필요한 경우에만 고려하자!
+
