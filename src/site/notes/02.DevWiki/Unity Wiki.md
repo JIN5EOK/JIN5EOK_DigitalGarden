@@ -16,6 +16,7 @@
 [[02.DevWiki/Sources/유니티 어드레서블 사용시 주의해야할 부분들\|유니티 어드레서블 사용시 주의해야할 부분들]]
 [[02.DevWiki/Sources/유니티 어드레서블 에셋 번들과 관리 전략\|유니티 어드레서블 에셋 번들과 관리 전략]]
 [[02.DevWiki/Sources/유니티 Resources vs Addressables 비교\|유니티 Resources vs Addressables 비교]]
+
 [[02.DevWiki/Sources/유니티 로컬라이제이션 SmartString, IVariable\|유니티 로컬라이제이션 SmartString, IVariable]]
 
 [[02.DevWiki/Sources/유니티 UniTask\|유니티 UniTask]]
