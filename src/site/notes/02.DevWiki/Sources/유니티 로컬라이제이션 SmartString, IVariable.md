@@ -35,7 +35,7 @@ message.Arguments = new object[] { vars };
 ## 3. `Variable<T>` 클래스
 
 * `Variable<T>`는 **유니티 로컬라이제이션 시스템에서 미리 구현한 제네릭 클래스**로 `IVariable` 인터페이스를 상속받는다.
-- **`Value` 프로퍼티를 변경하면  해당 변수를 사용하는 Smart String이 자동으로 갱신**된다!
+- **Value 프로퍼티를 변경하면  해당 변수를 사용하는 Smart String이 자동으로 갱신**된다!
 
 ## 4. 요약
 
