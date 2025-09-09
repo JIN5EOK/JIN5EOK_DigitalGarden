@@ -35,7 +35,7 @@
 ### 엔진 전반
 [[02.DevWiki/Sources/UnityEngine.Object\|UnityEngine.Object]]
 [[02.DevWiki/Sources/유니티 직렬화와 일반적인 의미의 직렬화의 차이\|유니티 직렬화와 일반적인 의미의 직렬화의 차이]]
-[[02.DevWiki/Sources/유니티 메인스레드\|유니티 메인스레드]]
+[[02.DevWiki/Sources/유니티 메인스레드와 UnityAPI 사용시 주의사항\|유니티 메인스레드와 UnityAPI 사용시 주의사항]]
 [[02.DevWiki/Sources/유니티 코루틴의 장단점과 구현방식\|유니티 코루틴의 장단점과 구현방식]]
 [[02.DevWiki/Sources/유니티에서의 Async,Await\|유니티에서의 Async,Await]]
 [[02.DevWiki/Sources/유니티 Async,Await vs 코루틴\|유니티 Async,Await vs 코루틴]]

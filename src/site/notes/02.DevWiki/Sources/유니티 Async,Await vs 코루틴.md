@@ -10,7 +10,7 @@
 * [[02.DevWiki/Sources/유니티 코루틴의 장단점과 구현방식\|유니티 코루틴의 장단점과 구현방식]]
 * [[02.DevWiki/Sources/유니티에서의 Async,Await\|유니티에서의 Async,Await]]
 
-* Async/Await을 사용할 때 발생할 수 있는 문제는 [[02.DevWiki/Sources/유니티 메인스레드\|유니티 메인스레드]] 참고
+* Async/Await을 사용할 때 발생할 수 있는 문제는 [[02.DevWiki/Sources/유니티 메인스레드와 UnityAPI 사용시 주의사항\|유니티 메인스레드와 UnityAPI 사용시 주의사항]] 참고
 
 ## 🙄 현 시점에서는 코루틴을 사용할 이유가 크게 없다
 

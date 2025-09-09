@@ -29,3 +29,4 @@
 	- **유니티 API는 메인스레드**에서만 실행이 가능
 	- 따라서 **멀티스레드**에서 실행중 **유니티 API**를 호출하면 문제가 발생할 수 있음
 		- `MainThreadDispathcer` 구현, `UniTask`, `Awaitable`사용 등을 통한 **메인스레드 복귀 처리**를 통해 해결할 수 있음
+		- [[02.DevWiki/Sources/유니티 메인스레드와 UnityAPI 사용시 주의사항\|유니티 메인스레드와 UnityAPI 사용시 주의사항]]
