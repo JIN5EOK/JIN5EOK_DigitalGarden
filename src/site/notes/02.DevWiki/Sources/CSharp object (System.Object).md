@@ -8,8 +8,12 @@
 * **Value타입도 System.Object를 상속받는다!**
 	* 다만 **System.ValueType**이라는 **System.Object의 추상 서브 클래스 타입**을 상속받아 Reference타입과 구분
 	* **사용자**가 직접 System.ValueType **상속 불가**
+* **값과 참조타입을 모두 담을 수 있다**는 특성상 값을 object로 캐스팅하면 박싱/언박싱이 발생할 수 있다!
+    * [[02.DevWiki/Sources/CSharp 박싱과 언박싱\|CSharp 박싱과 언박싱]]
 ### 기본 함수
+
 > **GetType을 제외**한 함수들은 모두 **오버라이딩 가능**
+
 
 * **ToString**
 	* 객체를 **String으로 출력**
@@ -24,9 +28,3 @@
 * **GetType**
 	* **타입** 획득
 	* 다른 함수들과 달리 **오버라이딩 불가**
-### 주의사항
-* 값 타입들이 **object** 타입으로 업 캐스팅 할 경우 박싱이 일어난다!
-
----
-### 연관 문서 
-[[02.DevWiki/Sources/CSharp 박싱과 언박싱\|CSharp 박싱과 언박싱]]
