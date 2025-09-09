@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02.DevWiki/Sources/슬라이딩 윈도우 (Sliding Window)/"}
 ---
 
-# 슬라이딩 윈도우 (Sliding Window)🪟
+# 슬라이딩 윈도우 (Sliding Window)🪟💨💨
 
 > **슬라이딩 윈도우**는 배열이나 리스트 같은 순차적인 데이터 구조에서 **고정된 크기의 창문을 이동**시키면서 원하는 값을 찾는 알고리즘이다. 
 
