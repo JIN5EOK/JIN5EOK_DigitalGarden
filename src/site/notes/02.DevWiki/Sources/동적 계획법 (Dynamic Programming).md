@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02.DevWiki/Sources/동적 계획법 (Dynamic Programming)/"}
 ---
 
-
+    
 > 큰 문제를 작은 문제로 쪼개어 해결하는 기법
 
 - **큰 문제를 작은 문제로 쪼갠다**
@@ -29,4 +29,4 @@
 
 ### 기타
 * 동적 계획법으로 구하면 좋은 알고리즘으로 최장 공통부분 수열, 최장 연속수열이 있다 
-    * [[02.DevWiki/Sources/LCS (Longest Common Subsequence, Longest Common Substring)\|LCS (Longest Common Subsequence, Longest Common Substring)]]  참고
+    * [[02.DevWiki/Sources/LCS (Longest Common Subsequence, Longest Common Substring)\|LCS (Longest Common Subsequence, Longest Common Substring)]] 

@@ -17,6 +17,6 @@
 	* B**CAD**
 	* F**CAD**F
 	* CAD가 최장 공통 부분 문자열임
-
+    * [[02.DevWiki/Sources/슬라이딩 윈도우 (Sliding Window)\|슬라이딩 윈도우 (Sliding Window)]]를 사용해 쉽게 구할 수 있다!
 ### 동적 계획법을 사용하자
 * [[02.DevWiki/Sources/동적 계획법 (Dynamic Programming)\|동적 계획법 (Dynamic Programming)]] 을 사용해 두 수열을 구할 수 있다
